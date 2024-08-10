@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    //background-image: linear-gradient(to right top, #ffa7ff, #f7c1ff, #f3d8ff, #f5ecff, #ffffff);
+    margin: 0;
+    padding: 0;
+    background-color: rgb(61, 61, 61);
+    font-family: Helvetica-Neue, Fabriga, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+}
+html, body { height: 100%; }
