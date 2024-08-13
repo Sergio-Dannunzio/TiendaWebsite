@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+.carousel{
+
+    span{
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        color: #000;
+        top: 40%;
+        background-color: #fff;
+        text-align: center;
+        border-radius: 50%;
+        line-height: 40px;
+    }
+    span:first-child{
+        left: -10px;
+    }
+    span:last-child{
+        right: -10px;
+    }
+}

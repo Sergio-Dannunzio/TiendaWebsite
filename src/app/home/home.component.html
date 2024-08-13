@@ -1,0 +1,15 @@
+<div class="carousel-container">
+    <div class="carousel">
+        <span class="material-symbols-outlined" (click)="changePageBack()">
+            chevron_left
+            </span>
+        <div class="carousel-item">    
+            <app-card imgUrl="{{urlArray[first]}}" wspUrl="{{descArray[first]}}" desc="{{ubArray[first]}}" id="{{userData[first].id}}"></app-card>
+            <app-card imgUrl="{{urlArray[second]}}" wspUrl="{{descArray[second]}}" desc="{{ubArray[second]}}" id="{{userData[second].id}}"></app-card>
+            <app-card imgUrl="{{urlArray[third]}}" wspUrl="{{descArray[third]}}" desc="{{ubArray[third]}}" id="{{userData[third].id}}"></app-card>
+        </div>
+        <span class="material-symbols-outlined" (click)="changePage()">
+            chevron_right
+        </span>
+    </div>
+</div>

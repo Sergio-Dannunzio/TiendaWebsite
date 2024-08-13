@@ -1,0 +1,16 @@
+<div>
+    @if (load) {
+
+        <span>{{userData[num].tipo}} / {{userData[num].desc}}</span>
+        <div class="carousel">
+            <span class="material-symbols-outlined" (click)="changePageBack()">
+                chevron_left
+                </span>
+            <img src="{{userData[num].img[first]}}" alt="" />
+
+            <span class="material-symbols-outlined" (click)="changePage()">
+                chevron_right
+            </span>
+        </div>
+    }
+</div>

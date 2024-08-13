@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-card',
@@ -8,5 +8,10 @@ import { Component } from '@angular/core';
   styleUrl: './card.component.scss'
 })
 export class CardComponent {
+
+  @Input() imgUrl: string | undefined;
+  @Input() wspUrl: string | undefined;
+  @Input() desc: string | undefined;
+  @Input() id: string | undefined;
 
 }
