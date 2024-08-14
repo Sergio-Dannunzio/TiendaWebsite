@@ -4,41 +4,47 @@
         "img": ["assets/pantalon1.jpg","assets/pantalon1.1.jpg","assets/pantalon1.2.jpg","assets/pantalon1.3.jpg"],
         "wsp": "Quiero",
         "desc": "Pantalon cargo de trabajo",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M","XL"]
     },
     {
         "id": 1,
         "img": ["assets/pantalon2.jpg","assets/pantalon2.1.jpg","assets/pantalon2.2.jpg","assets/pantalon2.3.jpg"],
         "wsp": "Quiero",
         "desc": "Pantalon cargo jogger",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M"]
     },
     {
         "id": 2,
         "img": ["assets/pantalon3.jpg","assets/pantalon3.1.jpg","assets/pantalon3.2.jpg","assets/pantalon3.3.jpg","assets/pantalon3.4.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M"]
     },
     {
         "id": 3,
         "img": ["assets/pantalon4.jpg","assets/pantalon4.1.jpg","assets/pantalon4.2.jpg","assets/pantalon4.3.jpg","assets/pantalon4.4.jpg","assets/pantalon4.5.jpg","assets/pantalon4.6.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M"]
     },
     {
         "id": 4,
         "img": ["assets/pantalon5.jpg","assets/pantalon5.1.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M"]
     },
     {
         "id": 5,
         "img": ["assets/pantalon8.jpg","assets/pantalon8.1.jpg","assets/pantalon8.2.jpg","assets/pantalon8.3.jpg","assets/pantalon8.4.jpg","assets/pantalon8.5.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "tipo": "Pantalon"
+        "tipo": "Pantalon",
+        "talle": ["S","M"]
     }
 ]
