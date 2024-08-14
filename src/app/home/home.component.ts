@@ -18,6 +18,7 @@ export class HomeComponent implements OnInit{
   second: number;
   third: number;
   protected userData: any;
+  load: boolean | undefined = false;
 
   constructor(private dataService: DataService) {
     this.first = 0;
@@ -31,7 +32,8 @@ export class HomeComponent implements OnInit{
   ngOnInit() {
     this.dataService.getData().subscribe(data => {
       this.userData = data;
-      this.urlArray.push(this.userData[0].img)
+
+      this.load = true;
     });
   }
 

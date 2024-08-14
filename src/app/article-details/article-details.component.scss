@@ -1,23 +1,160 @@
-img{
+.main-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
+    h1{
+        font-size: 24px;
+    }
+    div{
+        display: flex;
+        justify-content: start;
+        width: 90%;
+        h3{
+            font-size: 14px;
+        }
+    }
+    img{
+        width: 90%;
+    }
+    .ruta{
+        margin-top: 8px;
+        font-size: 14px;
+        color: #505050;
+    }
+    .carousel{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        span{
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            color: #000;
+            background-color: #fff;
+            text-align: center;
+            border-radius: 50%;
+            line-height: 40px;
+        }
+        span:first-child{
+            left: -10px;
+        }
+        .right{
+            right: -10px;
+        }
+    }
+    .talle-container{
+        .talle{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 35px;
+            height: 35px;
+            background-color: #000;
+            color: #fff;
+            margin-right: 4px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+    }
+    .secciones{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 18px;
+    }
 }
-.carousel{
 
-    span{
-        width: 40px;
-        height: 40px;
-        position: absolute;
-        color: #000;
-        top: 40%;
-        background-color: #fff;
-        text-align: center;
-        border-radius: 50%;
-        line-height: 40px;
-    }
-    span:first-child{
-        left: -10px;
-    }
-    span:last-child{
-        right: -10px;
-    }
+.noShow{
+    display: none;
 }
+
+
+
+
+.button {
+    --width: 100%;
+    --height: 35px;
+    --tooltip-height: 35px;
+    --tooltip-width: 90px;
+    --gap-between-tooltip-to-button: 18px;
+    --button-color: #222;
+    --tooltip-color: #fff;
+    width: var(--width);
+    height: var(--height);
+    background: var(--button-color);
+    position: relative;
+    text-align: center;
+    border-radius: 0.45em;
+    font-family: "Arial";
+    transition: background 0.3s;
+  }
+  
+  
+  .button::after,.button::before {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s;
+  }
+  
+  .text {
+    display: flex;
+    align-items: center;
+    justify-content: center !important;
+  }
+  
+  .button-wrapper,.text,.icon {
+    overflow: hidden;
+    position: absolute;
+    width: 100% !important;
+    height: 100%;
+    left: 0;
+    color: #fff;
+  }
+  
+  .text {
+    top: 0
+  }
+  
+  .text,.icon {
+    transition: top 0.5s;
+  }
+  
+  .icon {
+    color: #fff;
+    top: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .button:hover {
+    background: #30ff48;
+  }
+  
+  .button:hover .text {
+    top: -100%;
+  }
+  
+  .button:hover .icon {
+    top: 0;
+  }
+  
+  .button:hover:before,.button:hover:after {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .button:hover:after {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) - 20px);
+  }
+  
+  .button:hover:before {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button));
+  }

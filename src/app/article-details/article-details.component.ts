@@ -11,10 +11,11 @@ import { DataService } from '../data.service';
 })
 export class ArticleDetailsComponent {
 
+
   userData: any;
   id: string | null;
   num: number;
-  load: boolean | undefined;
+  load: boolean | undefined = false;
   first: number;
   
   public get articleId(){
@@ -49,6 +50,25 @@ export class ArticleDetailsComponent {
     }else{
       this.first--;
     }
+    }
+
+    displayData(int : number) {
+      if (int===1) {
+        
+        let desc = document.getElementById("desc");
+        if (desc?.className=="noShow") {
+          desc.classList.remove("noShow");
+        }else{
+          desc?.classList.add("noShow")
+        }
+      }else{
+        let pagos = document.getElementById("pagos");
+        if (pagos?.className=="noShow") {
+          pagos.classList.remove("noShow");
+        }else{
+          pagos?.classList.add("noShow")
+        }
+      }
     }
 
 }
