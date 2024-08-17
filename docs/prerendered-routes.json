@@ -1,5 +1,10 @@
 {
   "routes": [
-    "/home"
+    "/buzo",
+    "/calzado",
+    "/campera",
+    "/home",
+    "/pantalon",
+    "/remera"
   ]
 }
