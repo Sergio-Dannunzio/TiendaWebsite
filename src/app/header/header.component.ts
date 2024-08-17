@@ -8,10 +8,11 @@ import { Component, ElementRef, HostListener, ViewChild } from '@angular/core';
   styleUrl: './header.component.scss'
 })
 export class HeaderComponent {
+
   menuOpen = false;
 
   @ViewChild('menu') menu!: ElementRef;
-
+  @ViewChild('menuIcon') menuIcon!: ElementRef;
   openMenu() {
     let menu = document.getElementById("mobile-menu");
     if(menu?.className=="noShow"){
@@ -29,10 +30,24 @@ export class HeaderComponent {
   
   @HostListener('document:click', ['$event'])
   clickOutside(event: Event) {
+
     let menu = document.getElementById("mobile-menu");
-    if (this.menuOpen && !this.menu.nativeElement.contains(event.target)) {
+    const clickedIcon = this.menuIcon.nativeElement.contains(event.target);
+    const clickedInside = this.menu.nativeElement.contains(event.target);
+    if (this.menuOpen && !clickedInside && !clickedIcon) {
       menu?.classList.add("noShow");
       this.menuOpen = false;
+    }
+  }
+
+  displayData() {
+    let data = document.getElementById("displayData");
+    if (data?.className=="noShow") {
+      data.classList.remove("noShow");
+      data.classList.add("displayData");
+    }else{
+      data?.classList.add("noShow");
+      data?.classList.remove("displayData");
     }
   }
 }

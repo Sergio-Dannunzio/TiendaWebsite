@@ -42,13 +42,28 @@
             </a>
         </div>
         <div class="secciones" (click)="displayData(1)">
+            <p>Caracteristicas</p>
+            <span class="material-symbols-outlined">
+                keyboard_arrow_down
+            </span>
+        </div>
+        <div class="noShow" id="car">
+            @for (car of userData[num].caracteristicas; track $index) {
+                <p>>{{car}}</p>
+            }
+        </div>
+        <div class="secciones" (click)="displayData(2)">
             <p>Descripcion</p>
             <span class="material-symbols-outlined">
                 keyboard_arrow_down
             </span>
         </div>
-        <p class="noShow" id="desc">asd</p>
-        <div class="secciones" (click)="displayData(2)">
+        <div class="noShow" id="desc">
+            @for (desc of userData[num].descripcion; track $index) {
+                <p>{{desc}}</p>
+            }
+        </div>
+        <div class="secciones" (click)="displayData(3)">
             <p>Metodos de pago</p>
             <span class="material-symbols-outlined">
                 keyboard_arrow_down

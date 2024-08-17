@@ -24,7 +24,7 @@
             <img src="assets/logo.png" alt="">
         </a>
     </div>
-    <div class="icon-menu" #menu>
+    <div class="icon-menu" #menuIcon id="mobile-icon">
         <span class="material-symbols-outlined" (click)="openMenu()">
             menu
         </span>
@@ -37,9 +37,34 @@
                 <img src="assets/logo.png" alt="">
             </a>
         </div>
-        <a href="">Hombre</a>
-        <a href="">Mujer</a>
-        <a href="">Ropa de trabajo</a>
+        <div class="link" (click)="displayData()">
+            <p>Hombre</p>
+            <span class="material-symbols-outlined right">
+                chevron_right
+            </span>
+        </div>
+        <div class="noShow" id="displayData">
+            <a href="/pantalon">Pantalon</a>
+            <a href="/calzado">Calzado</a>
+            <a href="/campera">Campera</a>
+            <a href="/buzo">Buzo</a>
+            <a href="/remera">Remera</a>
+        </div>
+        <div class="link">
+            <p>Mujer</p>
+            <span class="material-symbols-outlined right">
+                chevron_right
+            </span>
+        </div>
+        <div class="link">
+            <p>Ropa de trabajo</p>
+            <span class="material-symbols-outlined right">
+                chevron_right
+            </span>
+        </div>
 
     </div>
+</div>
+<div class="info">
+    <p>Actualmente las compras online estan deshabilitadas</p>
 </div>

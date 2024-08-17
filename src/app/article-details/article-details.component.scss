@@ -16,7 +16,7 @@
         }
     }
     img{
-        width: 90%;
+        width: 100%;
     }
     .ruta{
         margin-top: 8px;
@@ -45,16 +45,18 @@
         }
     }
     .talle-container{
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(35px, 1fr));
+      grid-gap: 4px;
+      margin-bottom: 20px;
         .talle{
             display: flex;
             justify-content: center;
             align-items: center;
-            width: 35px;
+            min-width: 35px;
             height: 35px;
             background-color: #000;
             color: #fff;
-            margin-right: 4px;
-            margin-bottom: 20px;
             text-align: center;
         }
     }
@@ -67,7 +69,19 @@
 }
 
 .noShow{
-    display: none;
+    display: none !important;
+}
+
+.descripcion{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 15px;
+  color: #424242;
+  p{
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
 }
 
 

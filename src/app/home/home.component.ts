@@ -38,7 +38,6 @@ export class HomeComponent implements OnInit{
   }
 
   changePage() {
-    console.log(this.userData[0].desc);
     if (this.first<3) {
       this.first++;
       this.second++;
