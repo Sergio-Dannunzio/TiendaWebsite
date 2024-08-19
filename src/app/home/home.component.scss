@@ -1,3 +1,9 @@
+.hero{
+  width: 100%;
+  img{
+    width: 100%;
+  }
+}
 
 .carousel-container {
     overflow: hidden;
@@ -13,6 +19,9 @@
   
   .carousel-item {
     display: flex;
+    .card{
+      min-width: 260px;
+    }
   }
 
 span{
@@ -25,6 +34,7 @@ span{
   text-align: center;
   border-radius: 50%;
   line-height: 40px;
+  cursor: pointer; 
 }
 span:first-child{
   left: -10px;
