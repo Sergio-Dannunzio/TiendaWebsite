@@ -16,7 +16,7 @@
         "desc": "Pantalon cargo jogger",
         "descripcion": [""],
         "tipo": "Pantalon",
-        "talle": ["S","M"]
+        "talle": ["S","M","L","XL"]
     },
     {
         "id": 2,
@@ -204,5 +204,35 @@
         "descripcion": [""],
         "tipo": "Calzado",
         "talle": ["34","35","36","37","38","39","40","41","42","43","44","45"]
+    },
+    {
+        "id": 22,
+        "img": ["assets/zapatilla5.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva urbana Raptor",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40"]
+    },
+    {
+        "id": 23,
+        "img": ["assets/zapatilla6.jpg","assets/zapatilla6.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 24,
+        "img": ["assets/zapatilla7.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
     }
 ]
