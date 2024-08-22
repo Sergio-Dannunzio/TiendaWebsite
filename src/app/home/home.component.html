@@ -8,9 +8,9 @@
             </span>
         <div class="carousel-item">
             @if (load) {
-                <app-card class="card" imgUrl="{{urlArray[first]}}" wspUrl="{{descArray[first]}}" desc="{{ubArray[first]}}" id="{{userData[first].id}}"></app-card>
-                <app-card class="card" imgUrl="{{urlArray[second]}}" wspUrl="{{descArray[second]}}" desc="{{ubArray[second]}}" id="{{userData[second].id}}"></app-card>
-                <app-card class="card" imgUrl="{{urlArray[third]}}" wspUrl="{{descArray[third]}}" desc="{{ubArray[third]}}" id="{{userData[third].id}}"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[first]}}" wspUrl="{{descArray[first]}}" desc="{{ubArray[first]}}" id="{{userData[first].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[second]}}" wspUrl="{{descArray[second]}}" desc="{{ubArray[second]}}" id="{{userData[second].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[third]}}" wspUrl="{{descArray[third]}}" desc="{{ubArray[third]}}" id="{{userData[third].id}}" tipo="pantalon"></app-card>
             }
         </div>
         <span class="material-symbols-outlined" (click)="changePage()">
@@ -18,3 +18,4 @@
         </span>
     </div>
 </div>
+<app-footer></app-footer>

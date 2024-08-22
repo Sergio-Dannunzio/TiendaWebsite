@@ -2,11 +2,12 @@ import { Component } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { DataService } from '../data.service';
 import { CardComponent } from "../card/card.component";
+import { FooterComponent } from "../footer/footer.component";
 
 @Component({
   selector: 'app-article-list',
   standalone: true,
-  imports: [CardComponent],
+  imports: [CardComponent, FooterComponent],
   templateUrl: './article-list.component.html',
   styleUrl: './article-list.component.scss'
 })

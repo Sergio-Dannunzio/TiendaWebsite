@@ -1,11 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { CardComponent } from "../card/card.component";
 import { DataService } from '../data.service';
+import { FooterComponent } from '../footer/footer.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CardComponent],
+  imports: [CardComponent,FooterComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
 })
@@ -24,7 +25,7 @@ export class HomeComponent implements OnInit{
     this.first = 0;
     this.second = 1;
     this.third = 2;
-    this.urlArray = ['assets/pantalon1.jpg', 'assets/pantalon2.jpg', 'assets/pantalon3.jpg', 'assets/pantalon4.jpg', 'assets/pantalon5.jpg', 'assets/pantalon8.jpg'];
+    this.urlArray = ['assets/pantalon11.jpg', 'assets/pantalon22.jpg', 'assets/pantalon33.jpg', 'assets/pantalon44.jpg', 'assets/pantalon55.jpg', 'assets/pantalon88.jpg'];
     this.descArray = ['Pantalon cargo de trabajo', 'Jean Elastizado Semichupin2', 'Legado jesuita en Córdoba3', 'Jean Elastizado4', 'Pantalones Corte Chino Chupin5', 'Pantalones Corte Chino Chupin6'];
     this.ubArray = ['Pantalon cargo de trabajo', 'Jean Elastizado Semichupin2', 'Legado jesuita en Córdoba33', 'Jean Elastizado4', 'Pantalones Corte Chino Chupin5', 'Pantalones Corte Chino Chupin6'];
   }

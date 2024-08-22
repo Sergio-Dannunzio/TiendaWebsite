@@ -4,20 +4,26 @@ a{
 }
 .main-container{
   display: flex;
-
-
   .card-container{
     display: flex;
     align-items: center;
     flex-direction: column;
-    max-width: 350px;
-
+    justify-content: space-between;
     background-color: #fff;
     margin: 12px;
-    justify-content: center;
-    
-    img{
-      width: 80%;
+    .image-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      img{
+        width: 80%;
+        height: 100%;
+        object-fit: contain;
+      }
+    }
+    .img-calzado{
+      width: 100%;
     }
     .description{
       display: flex;

@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { DataService } from '../data.service';
+import { FooterComponent } from "../footer/footer.component";
 
 @Component({
   selector: 'app-article-details',
   standalone: true,
-  imports: [],
+  imports: [FooterComponent],
   templateUrl: './article-details.component.html',
   styleUrl: './article-details.component.scss'
 })

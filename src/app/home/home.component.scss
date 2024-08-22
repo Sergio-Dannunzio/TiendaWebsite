@@ -4,7 +4,6 @@
     width: 100%;
   }
 }
-
 .carousel-container {
     overflow: hidden;
     width: 100%;
@@ -19,8 +18,10 @@
   
   .carousel-item {
     display: flex;
+    justify-content: center;
+    align-items: center;
     .card{
-      min-width: 260px;
+      min-width: 340px;
     }
   }
 

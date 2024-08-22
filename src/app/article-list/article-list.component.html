@@ -1,3 +1,14 @@
-@for (item of filteredData; track $index) {
-    <app-card imgUrl="{{item.img[0]}}" wspUrl="{{item.wsp}}" desc="{{item.desc}}" id="{{item.id}}"></app-card>
-}
+<div class="routing">
+    <a href="/home">Home /</a>
+    @if (load) {
+        <a href="/"> {{filteredData[0].tipo}}</a>
+    }
+</div>
+<div class="main-container">
+    @for (item of filteredData; track $index) {
+        <div>
+            <app-card imgUrl="{{item.img[0]}}" wspUrl="{{item.wsp}}" desc="{{item.desc}}" id="{{item.id}}" tipo="{{item.tipo}}"></app-card>
+        </div>
+    }
+</div>
+<app-footer></app-footer>

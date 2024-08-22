@@ -8,14 +8,22 @@
             <h1>{{userData[num].desc}}</h1>
         </div>
         <div class="carousel">
-            <span class="material-symbols-outlined" (click)="changePageBack()">
-                chevron_left
-                </span>
-            <img src="{{userData[num].img[first]}}" alt="" />
+            @if (userData[num].img.length>1) {
 
-            <span class="material-symbols-outlined right" (click)="changePage()">
-                chevron_right
-            </span>
+                <span class="material-symbols-outlined" (click)="changePageBack()">
+                    chevron_left
+                </span>
+            }
+            @if (userData[num].tipo!="Calzado") {
+                <img src="{{userData[num].img[first]}}" alt="" />
+            }@else {
+                <img class="img-calzado" src="{{userData[num].img[first]}}" alt="" />
+            }
+            @if (userData[num].img.length>1) {
+                <span class="material-symbols-outlined right" (click)="changePage()">
+                    chevron_right
+                </span>
+            }
         </div>
         <div>
             <h3>Talles</h3>
@@ -73,3 +81,4 @@
         
     }
 </div>
+<app-footer></app-footer>
