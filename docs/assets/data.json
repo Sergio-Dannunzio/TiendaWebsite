@@ -1,17 +1,17 @@
 [
     {
         "id": 0,
-        "img": ["assets/pantalon1.jpg","assets/pantalon1.1.jpg","assets/pantalon1.2.jpg","assets/pantalon1.3.jpg"],
+        "img": ["assets/pantalon11.jpg","assets/pantalon1.1.jpg","assets/pantalon1.2.jpg","assets/pantalon1.3.jpg"],
         "wsp": "Quiero",
         "desc": "Pantalon cargo de trabajo",
         "descripcion": ["Te presentamos nuestro PANTALON CARGO DE TRABAJO de alta calidad, diseñado para acompañarte en tus jornadas laborales más exigentes. Con sus seis bolsillos, tendrás todo lo que necesitas al alcance de tu mano.", "Una de las características clave de este pantalón es su diseño con costuras reforzadas. Sabemos lo importante que es contar con un pantalón que resista el desgaste diario, y gracias a estas costuras, vas a poder enfrentar cualquier desafío laboral con total confianza.","La elección de la tela Gabardina 8 onzas para este pantalón no fue casual. Esta tela es reconocida por su durabilidad y resistencia, lo que significa que no tendrás que preocuparte por rasgaduras o deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada.","Ya sea que trabajes en la construcción, en el campo, en un taller o cualquier otra profesión que demande un alto deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada , este pantalón cargo de trabajo está diseñado pensando en vos. Resistente, funcional y cómodo."],
         "caracteristicas":["Tela gabardina pesada, 8 onzas","Con cierre (entrepierna), 6 bolsillos (2 delanteros, 2 traseros y 2 en los costados).","No achica al lavarlo y no pierde color.","Colores: Beige - Azul - Negro - Verde"],
         "tipo": "Pantalon",
-        "talle": ["38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"]
     },
     {
         "id": 1,
-        "img": ["assets/pantalon2.jpg","assets/pantalon2.1.jpg","assets/pantalon2.2.jpg","assets/pantalon2.3.jpg"],
+        "img": ["assets/pantalon22.jpg","assets/pantalon2.1.jpg","assets/pantalon2.2.jpg","assets/pantalon2.3.jpg"],
         "wsp": "Quiero",
         "desc": "Pantalon cargo jogger",
         "descripcion": [""],
@@ -20,7 +20,7 @@
     },
     {
         "id": 2,
-        "img": ["assets/pantalon3.jpg","assets/pantalon3.1.jpg","assets/pantalon3.2.jpg","assets/pantalon3.3.jpg","assets/pantalon3.4.jpg"],
+        "img": ["assets/pantalon33.jpg","assets/pantalon3.1.jpg","assets/pantalon3.2.jpg","assets/pantalon3.3.jpg","assets/pantalon3.4.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [""],
@@ -29,7 +29,7 @@
     },
     {
         "id": 3,
-        "img": ["assets/pantalon4.jpg","assets/pantalon4.1.jpg","assets/pantalon4.2.jpg","assets/pantalon4.3.jpg","assets/pantalon4.4.jpg","assets/pantalon4.5.jpg","assets/pantalon4.6.jpg"],
+        "img": ["assets/pantalon44.jpg","assets/pantalon4.1.jpg","assets/pantalon4.2.jpg","assets/pantalon4.3.jpg","assets/pantalon4.4.jpg","assets/pantalon4.5.jpg","assets/pantalon4.6.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [""],
@@ -38,7 +38,7 @@
     },
     {
         "id": 4,
-        "img": ["assets/pantalon5.jpg","assets/pantalon5.1.jpg"],
+        "img": ["assets/pantalon55.jpg","assets/pantalon5.1.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [""],
@@ -47,7 +47,7 @@
     },
     {
         "id": 5,
-        "img": ["assets/pantalon8.jpg","assets/pantalon8.1.jpg","assets/pantalon8.2.jpg","assets/pantalon8.3.jpg","assets/pantalon8.4.jpg","assets/pantalon8.5.jpg"],
+        "img": ["assets/pantalon88.jpg","assets/pantalon8.1.jpg","assets/pantalon8.2.jpg","assets/pantalon8.3.jpg","assets/pantalon8.4.jpg","assets/pantalon8.5.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [""],
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "img": ["assets/pantalon9.jpg","assets/pantalon9.1.jpg","assets/pantalon9.2.jpg"],
+        "img": ["assets/pantalon99.jpg","assets/pantalon9.1.jpg","assets/pantalon9.2.jpg"],
         "wsp": "Quiero",
         "desc": "Babucha Classic",
         "descripcion": ["Tela: Frisa","Modelo: CORTE CLÁSICO","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "img": ["assets/pantalon10.jpg","assets/pantalon10.1.jpg","assets/pantalon10.2.jpg"],
+        "img": ["assets/pantalon1010.jpg","assets/pantalon10.1.jpg","assets/pantalon10.2.jpg"],
         "wsp": "Quiero",
         "desc": "Bombacha Campo",
         "descripcion": ["Material: Grafa","Modelo: Bombacha Grafa"],
@@ -228,6 +228,66 @@
     {
         "id": 24,
         "img": ["assets/zapatilla7.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 25,
+        "img": ["assets/zapatilla8.jpg","assets/zapatilla8.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 26,
+        "img": ["assets/zapatilla9.jpg","assets/zapatilla9.1.jpg","assets/zapatilla9.2.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 27,
+        "img": ["assets/zapatilla10.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 28,
+        "img": ["assets/zapatilla11.jpg","assets/zapatilla11.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 29,
+        "img": ["assets/zapatilla12.jpg","assets/zapatilla12.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona Nike",
+        "caracteristicas":[""],
+        "descripcion": [""],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 30,
+        "img": ["assets/zapatilla13.jpg","assets/zapatilla13.1.jpg","assets/zapatilla13.2.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla lona Nike",
         "caracteristicas":[""],
