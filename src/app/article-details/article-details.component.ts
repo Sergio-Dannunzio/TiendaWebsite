@@ -54,7 +54,6 @@ export class ArticleDetailsComponent {
 
     displayData(int : number) {
       if (int===1) {
-        
         let car = document.getElementById("car");
         if (car?.className=="noShow") {
           car.classList.remove("noShow");
@@ -72,13 +71,23 @@ export class ArticleDetailsComponent {
           desc?.classList.add("noShow")
           desc?.classList.remove("descripcion");
         }
-      }
-      else{
-        let pagos = document.getElementById("pagos");
-        if (pagos?.className=="noShow") {
-          pagos.classList.remove("noShow");
+      }else if(int===3){
+        let car = document.getElementById("carD");
+        if (car?.className=="noShow") {
+          car.classList.remove("noShow");
+          car.classList.add("descripcion");
         }else{
-          pagos?.classList.add("noShow")
+          car?.classList.add("noShow")
+          car?.classList.remove("descripcion");
+        }
+      }else if(int===4){
+        let desc = document.getElementById("descD");
+        if (desc?.className=="noShow") {
+          desc.classList.remove("noShow");
+          desc.classList.add("descripcion");
+        }else{
+          desc?.classList.add("noShow")
+          desc?.classList.remove("descripcion");
         }
       }
     }

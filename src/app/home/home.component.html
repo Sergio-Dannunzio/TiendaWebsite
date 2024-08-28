@@ -4,18 +4,26 @@
 <div class="carousel-container">
     <div class="carousel">
         <span class="material-symbols-outlined" (click)="changePageBack()">
-            chevron_left
-            </span>
-        <div class="carousel-item">
+            arrow_back_ios
+        </span>
+        <div class="carousel-item-mobile">
             @if (load) {
                 <app-card class="card" imgUrl="{{urlArray[first]}}" wspUrl="{{descArray[first]}}" desc="{{ubArray[first]}}" id="{{userData[first].id}}" tipo="pantalon"></app-card>
                 <app-card class="card" imgUrl="{{urlArray[second]}}" wspUrl="{{descArray[second]}}" desc="{{ubArray[second]}}" id="{{userData[second].id}}" tipo="pantalon"></app-card>
                 <app-card class="card" imgUrl="{{urlArray[third]}}" wspUrl="{{descArray[third]}}" desc="{{ubArray[third]}}" id="{{userData[third].id}}" tipo="pantalon"></app-card>
             }
         </div>
+        <div class="carousel-item-desktop">
+            @if (load) {
+                <app-card class="card" imgUrl="{{urlArray[first]}}" wspUrl="{{descArray[first]}}" desc="{{ubArray[first]}}" id="{{userData[first].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[second]}}" wspUrl="{{descArray[second]}}" desc="{{ubArray[second]}}" id="{{userData[second].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[third]}}" wspUrl="{{descArray[third]}}" desc="{{ubArray[third]}}" id="{{userData[third].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[fourth]}}" wspUrl="{{descArray[fourth]}}" desc="{{ubArray[fourth]}}" id="{{userData[fourth].id}}" tipo="pantalon"></app-card>
+                <app-card class="card" imgUrl="{{urlArray[fifth]}}" wspUrl="{{descArray[fifth]}}" desc="{{ubArray[fifth]}}" id="{{userData[fifth].id}}" tipo="pantalon"></app-card>
+            }
+        </div>
         <span class="material-symbols-outlined" (click)="changePage()">
-            chevron_right
+            arrow_forward_ios
         </span>
     </div>
 </div>
-<app-footer></app-footer>

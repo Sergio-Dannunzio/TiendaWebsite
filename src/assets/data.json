@@ -15,8 +15,9 @@
         "wsp": "Quiero",
         "desc": "Pantalon cargo jogger",
         "descripcion": [""],
+        "caracteristicas": ["Confeccionados en gabardina rigida liviana de alta calidad","2 bolsillos delanteros + 2 bolsillos laterales + 2 bolsillos traseros","Puños con elastico","Cordon de ajuste en cintura","Disponible en 5 colores","Negro","Verde","Verde musgo","Camel","Beige"],
         "tipo": "Pantalon",
-        "talle": ["S","M","L","XL"]
+        "talle": ["38","40","42","44","46","48","50","52","54"]
     },
     {
         "id": 2,
@@ -24,17 +25,19 @@
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [""],
+        "caracteristicas": ["Nevado","Disponible en 2 colores","Azul","Negro"],
         "tipo": "Pantalon",
-        "talle": ["S","M"]
+        "talle": ["40","42","44","46","48","50","52","54"]
     },
     {
         "id": 3,
         "img": ["assets/pantalon44.jpg","assets/pantalon4.1.jpg","assets/pantalon4.2.jpg","assets/pantalon4.3.jpg","assets/pantalon4.4.jpg","assets/pantalon4.5.jpg","assets/pantalon4.6.jpg"],
         "wsp": "Quiero",
-        "desc": "Jean Elastizado Semichupin",
-        "descripcion": [""],
+        "desc": "Jean Semi Chupín Rígido",
+        "descripcion": ["Una Marca con más de 22 años. fabricando Jeans para vos.... Sabemos lo que buscas, el mejor calce, los mejores materiales y garantía de durabilidad a un precio accesible."],
+        "caracteristicas": ["Pantalon Jeans Excelente costura","Muy buen material y un excelente calse","Disponible en 2 colores","Azul","Celeste"],
         "tipo": "Pantalon",
-        "talle": ["S","M"]
+        "talle": ["38","40","42","44","46","48","50","52","54"]
     },
     {
         "id": 4,
@@ -49,35 +52,39 @@
         "id": 5,
         "img": ["assets/pantalon88.jpg","assets/pantalon8.1.jpg","assets/pantalon8.2.jpg","assets/pantalon8.3.jpg","assets/pantalon8.4.jpg","assets/pantalon8.5.jpg"],
         "wsp": "Quiero",
-        "desc": "Jean Elastizado Semichupin",
-        "descripcion": [""],
+        "desc": "Babucha Algodón Frizado Con Puño",
+        "descripcion": [],
+        "caracteristicas": ["Material: algodon frisado premium de calidad!","1 bolsillo trasero","2 bolsillos laterales espaciosos","Bolsillos laterales con cierres","Disponible en 4 colores","Negro","Gris melange","Gris oscuro","Azul marino"],
         "tipo": "Pantalon",
-        "talle": ["S","M"]
+        "talle": ["1","2","3","4","5"]
     },
     {
         "id": 6,
         "img": ["assets/pantalon99.jpg","assets/pantalon9.1.jpg","assets/pantalon9.2.jpg"],
         "wsp": "Quiero",
         "desc": "Babucha Classic",
-        "descripcion": ["Tela: Frisa","Modelo: CORTE CLÁSICO","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
+        "descripcion": [],
+        "caracteristicas": ["Tela: Frisa","Modelo: Corte clásico","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
         "tipo": "Pantalon",
-        "talle": ["S"]
+        "talle": ["1","2","3","4","5"]
     },
     {
         "id": 7,
         "img": ["assets/campera1.jpg","assets/campera1.1.jpg"],
         "wsp": "Quiero",
-        "desc": "Sin nombre",
-        "descripcion": ["Material principal: Algodon","Composición: algodon 80% poliester 20%","Con bolsillos: Si"],
+        "desc": "Campera de algodón",
+        "descripcion": [""],
+        "caracteristicas": ["Material principal: Algodón","Composición: algodón 80% poliester 20%","Con bolsillos: Si"],
         "tipo": "Campera",
-        "talle": ["S","M","L","XL"]
+        "talle": ["S","M","L","XL","XXL"]
     },
     {
         "id": 8,
         "img": ["assets/buzo1.jpg","assets/buzo1.1.jpg"],
         "wsp": "Quiero",
         "desc": "Buzo de algodón",
-        "descripcion": ["Material principal: Algodon","Uso ideal para todo el año Super suaves, cómodos Ligeramente al cuerpo."],
+        "descripcion": [""],
+        "caracteristicas": ["Material principal: Algodón","Uso ideal para todo el año Super suaves, cómodos Ligeramente al cuerpo."],
         "tipo": "Buzo",
         "talle": ["S","M","L","XL","XXL"]
     },
@@ -85,8 +92,9 @@
         "id": 9,
         "img": ["assets/buzo2.jpg","assets/buzo2.1.jpg","assets/buzo2.2.jpg"],
         "wsp": "Quiero",
-        "desc": "Buzo de algodón con friza",
+        "desc": "Buzo de algodón estilo canguro",
         "descripcion": [],
+        "caracteristicas":[],
         "tipo": "Buzo",
         "talle": ["1","2","3","4","5"]
     },
@@ -96,6 +104,7 @@
         "wsp": "Quiero",
         "desc": "Campera rompeviento",
         "descripcion": ["Rompeviento liviano ideal para todo tipo de actividades al aire libre y deportivas. Posee capucha oculta en el cuello, que se puede guardar. Cuenta con dos bolsillos laterales y cordón en la cintura. Hecho en tela siré lisa, con abrigo."],
+        "caracteristicas":["Disponible en 4 colores","Negro","Azul","Azul Eléctrico","Bordó"],
         "tipo": "Campera",
         "talle": ["2","3","4","5","6","7"]
     },
@@ -103,26 +112,29 @@
         "id": 11,
         "img": ["assets/pantalon1010.jpg","assets/pantalon10.1.jpg","assets/pantalon10.2.jpg"],
         "wsp": "Quiero",
-        "desc": "Bombacha Campo",
-        "descripcion": ["Material: Grafa","Modelo: Bombacha Grafa"],
+        "desc": "Bombacha Campo el Mensual",
+        "descripcion": [],
+        "caracteristicas":["Material: Grafa","Modelo: Bombacha Grafa","Disponible en 4 colores","Negro","Azul","Verde","Beige"],
         "tipo": "Pantalon",
-        "talle": ["36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54"]
+        "talle": ["36","38","40","42","44","46","48","50","52","54"]
     },
     {
         "id": 12,
         "img": ["assets/buzo3.jpg","assets/buzo3.1.jpg","assets/buzo3.2.jpg"],
         "wsp": "Quiero",
         "desc": "Buzo Polar Térmico Urbana",
-        "descripcion": ["Cuello Alto Medio cierre Bolsillos y cordón para ajustar en la cintura Premium."],
+        "descripcion": [],
+        "caracteristicas":["Cuello Alto Medio cierre Bolsillo","Cordón para ajustar en la cintura Premium"],
         "tipo": "Buzo",
-        "talle": ["2"]
+        "talle": ["1","2","3","4","5"]
     },
     {
         "id": 13,
         "img": ["assets/campera3.jpg"],
         "wsp": "Quiero",
         "desc": "Campera deportiva",
-        "descripcion": ["Con dos bolsillos en la parte delantera."],
+        "descripcion": [],
+        "caracteristicas":["Dos bolsillos delanteros","Con capucha"],
         "tipo": "Campera",
         "talle": ["1","2","3","4","5","6"]
     },
@@ -131,7 +143,8 @@
         "img": ["assets/chaleco1.jpg","assets/chaleco1.1.jpg","assets/chaleco1.2.jpg"],
         "wsp": "Quiero",
         "desc": "Chaleco basico de polar",
-        "descripcion": ["Liviano y versátil.","Cintura elastizada.","Cuello alto.","Cierre a la vista.","Posee bolsillo canguro."],
+        "descripcion": [],
+        "caracteristicas":["Liviano y versátil.","Cintura elastizada.","Cuello alto.","Cierre a la vista.","Posee bolsillo canguro."],
         "tipo": "Campera",
         "talle": ["S","M","L","XL","XXL"]
     },
@@ -141,7 +154,7 @@
         "wsp": "Quiero",
         "desc": "Remera algodón peinado",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
-        "descripcion": ["0"],
+        "descripcion": [],
         "tipo": "Remera",
         "talle": ["0"]
     },
@@ -149,9 +162,9 @@
         "id": 16,
         "img": ["assets/remera2.jpg","assets/remera2.1.jpg","assets/remera2.2.jpg","assets/remera2.3.jpg","assets/remera2.4.jpg"],
         "wsp": "Quiero",
-        "desc": "Remera algodón peinado",
+        "desc": "Remera algodón peinado estampada",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
-        "descripcion": ["0"],
+        "descripcion": [],
         "tipo": "Remera",
         "talle": ["0"]
     },
@@ -161,7 +174,7 @@
         "wsp": "Quiero",
         "desc": "Remera estampada manga larga",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
-        "descripcion": ["0"],
+        "descripcion": [],
         "tipo": "Remera",
         "talle": ["0"]
     },
@@ -170,8 +183,8 @@
         "img": ["assets/zapatilla1.jpg","assets/zapatilla1.1.jpg","assets/zapatilla1.2.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla de lona panchas clásica Sorpasso",
-        "caracteristicas":["Base de Pvc antideslizante y resistente."],
-        "descripcion": ["Cómodas, Livianas y frescas."],
+        "caracteristicas":["Base de Pvc antideslizante y resistente.","Cómodas, Livianas y frescas."],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["38","39","40","41","42","43","44","45","46"]
     },
@@ -180,8 +193,8 @@
         "img": ["assets/zapatilla2.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla deportiva running Skaylap",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40","41","42","43","44"]
     },
@@ -190,8 +203,8 @@
         "img": ["assets/zapatilla3.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla deportiva marca Skaylap",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40","41","42","43","44"]
     },
@@ -210,8 +223,8 @@
         "img": ["assets/zapatilla5.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla deportiva urbana Raptor",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40"]
     },
@@ -220,8 +233,8 @@
         "img": ["assets/zapatilla6.jpg","assets/zapatilla6.1.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla Nike",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40","41","42","43","44"]
     },
@@ -230,8 +243,8 @@
         "img": ["assets/zapatilla7.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla lona Nike",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40","41","42","43","44"]
     },
@@ -239,51 +252,51 @@
         "id": 25,
         "img": ["assets/zapatilla8.jpg","assets/zapatilla8.1.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
+        "desc": "Pantufla",
         "caracteristicas":[""],
         "descripcion": [""],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["38","39","40","41","42","43","44","45"]
     },
     {
         "id": 26,
         "img": ["assets/zapatilla9.jpg","assets/zapatilla9.1.jpg","assets/zapatilla9.2.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "desc": "Zapatilla Rave",
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["38","39","40","41","42","43","44","45","46","47","48"]
     },
     {
         "id": 27,
         "img": ["assets/zapatilla10.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "desc": "Borcego Bochin",
+        "caracteristicas":[],
+        "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
     },
     {
         "id": 28,
         "img": ["assets/zapatilla11.jpg","assets/zapatilla11.1.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
+        "desc": "Borcego Bochin",
         "caracteristicas":[""],
-        "descripcion": [""],
+        "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
     },
     {
         "id": 29,
         "img": ["assets/zapatilla12.jpg","assets/zapatilla12.1.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
+        "desc": "Borcego Bochin",
         "caracteristicas":[""],
-        "descripcion": [""],
+        "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
     },
     {
         "id": 30,
@@ -294,5 +307,65 @@
         "descripcion": [""],
         "tipo": "Calzado",
         "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 31,
+        "img": ["assets/pantalon12.jpg","assets/pantalon12.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Pantalon Mom Hombre",
+        "caracteristicas":["Tela jean rígido","Bragueta con cierre y botón","No destiñe, ni achica al lavarlo Excelente calce y calidad"],
+        "descripcion": [""],
+        "tipo": "Pantalon",
+        "talle": ["38","40","42","44","46","48","50","52","54"]
+    },
+    {
+        "id": 32,
+        "img": ["assets/zapatilla14.jpg","assets/zapatilla14.1.jpg","assets/zapatilla14.2.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botines Futbol Raptor",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 33,
+        "img": ["assets/zapatilla15.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botas de Goma",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 34,
+        "img": ["assets/zapatilla16.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botas de Goma",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 35,
+        "img": ["assets/zapatilla17.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botas de Goma",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 36,
+        "img": ["assets/zapatilla18.jpg","assets/zapatilla18.1.jpg","assets/zapatilla18.2.jpg","assets/zapatilla18.3.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botas de Goma",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
     }
 ]

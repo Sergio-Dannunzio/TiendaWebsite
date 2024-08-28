@@ -1,11 +1,13 @@
-<div class="main-container">
+<div class="main-container" >
     <div>
-        <img src="assets/logo.png" alt="">
+        <a href="home">
+            <img src="assets/logo.png" alt="">
+        </a>
     </div>
     <div class="link-container">
-        <a href="">Hombre</a>
-        <a href="">Mujer</a>
-        <a href="">Ropa de trabajo</a>
+        <a href="" (mouseover)="toggleDesktopMenu(1)">Hombre</a>
+        <a href="" (mouseover)="out(1)">Mujer</a>
+        <a href="" (mouseover)="out(1)">Ropa de trabajo</a>
     </div>
     <div>
         <form>
@@ -18,6 +20,14 @@
         </form>
     </div>
 </div>
+<div class="noShow" id="desktop-menu" (mouseleave)="out(1)">
+    <a href="pantalon">Pantalon</a>
+    <a href="calzado">Calzado</a>
+    <a href="campera">Campera</a>
+    <a href="buzo">Buzo</a>
+    <a href="remera">Remera</a>
+</div>
+
 <div class="mobile-container">
     <div>
         <a href="home">

@@ -20,12 +20,22 @@
     }
 }
 
+@media only screen and (min-width: 600px) {
+
+    .main-container{
+        div{
+            flex: 1 1 calc(30% - 10px);
+            box-sizing: border-box;
+        }
+    }
+}
+
 
 @media only screen and (min-width: 1024px) {
 
     .main-container{
         div{
-            flex: 1 1 calc(30% - 10px);
+            flex: 1 1 calc(20% - 10px);
             box-sizing: border-box;
         }
     }
