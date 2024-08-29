@@ -99,13 +99,7 @@
         transform: translateX(0);
     }
 }
-@keyframes moveDown {
-    from{
-        transform: translateY(-300px);
-    }to{
-        transform: translateY(0);
-    }
-}
+
 
 @media only screen and (min-width: 600px) {
     .menu-container{
@@ -190,5 +184,13 @@
     }
     .mobile-container{
         display: none;
+    }
+
+    @keyframes moveDown {
+        from{
+            transform: translateY(-200px);
+        }to{
+            transform: translateY(0);
+        }
     }
 }

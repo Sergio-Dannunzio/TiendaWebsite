@@ -4,7 +4,7 @@ a{
 }
 .main-container{
   display: flex;
-  width: 170px;
+  width: 150px;
   justify-content: center;
   cursor: pointer;
   .card-container{
@@ -20,7 +20,7 @@ a{
       align-items: center;
       width: 100%;
       img{
-        height: 280px;
+        height: 150px;
         object-fit: contain;
       }
       .img-calzado{
@@ -153,7 +153,15 @@ a{
   @media only screen and (min-width: 600px) {
     
     .main-container{
-      width: 190px;
+      width: 220px;
+      .card-container{
+
+        .image-container{
+          img{
+            height: 220px;
+          }
+        }
+      }
     }
   
   }
@@ -162,6 +170,14 @@ a{
     
     .main-container{
       width: 330px;
+      .card-container{
+
+        .image-container{
+          img{
+            height: 330px;
+          }
+        }
+      }
     }
   
   }
