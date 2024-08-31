@@ -62,7 +62,7 @@
         "id": 6,
         "img": ["assets/pantalon99.jpg","assets/pantalon9.1.jpg","assets/pantalon9.2.jpg"],
         "wsp": "Quiero",
-        "desc": "Babucha Classic",
+        "desc": "Joguin algodón frizado clásico",
         "descripcion": [],
         "caracteristicas": ["Tela: Frisa","Modelo: Corte clásico","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
         "tipo": "Pantalon",
@@ -180,7 +180,7 @@
     },
     {
         "id": 18,
-        "img": ["assets/zapatilla1.jpg","assets/zapatilla1.1.jpg","assets/zapatilla1.2.jpg"],
+        "img": ["assets/zapatilla1.jpg","assets/zapatilla1.1.jpg","assets/zapatilla1.2.jpg","assets/zapatilla1.3.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla de lona panchas clásica Sorpasso",
         "caracteristicas":["Base de Pvc antideslizante y resistente.","Cómodas, Livianas y frescas."],
@@ -437,5 +437,95 @@
         "descripcion": [],
         "tipo": "Calzado",
         "talle": ["34","35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 44,
+        "img": ["assets/pantalon16.jpg"],
+        "wsp": "Quiero",
+        "desc": "Pantalón deportivo hombre",
+        "caracteristicas":["Disponible en Negro"],
+        "descripcion": [],
+        "tipo": "Pantalon",
+        "talle": ["1","2","3","4","5"]
+    },
+    {
+        "id": 45,
+        "img": ["assets/pantalon17.jpg"],
+        "wsp": "Quiero",
+        "desc": "Joguin clásico rústico liviano",
+        "caracteristicas":["Disponible en 3 colores","Negro","Gris claro","Gris topo"],
+        "descripcion": [],
+        "tipo": "Pantalon",
+        "talle": ["1","2","3","4","5"]
+    },
+    {
+        "id": 46,
+        "img": ["assets/zapatilla23.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla estilo Vans",
+        "caracteristicas":["Disponible en 2 colores","Negro, Blanco","Negro, Caramelo"],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 47,
+        "img": ["assets/zapatilla24.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva dama",
+        "caracteristicas":["Disponible en Negro y Fucsia"],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["35","36","37","38","39","40","41"]
+    },
+    {
+        "id": 48,
+        "img": ["assets/zapatilla25.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva unisex",
+        "caracteristicas":["Disponible en Negro y Blanco"],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+    },
+    {
+        "id": 49,
+        "img": ["assets/zapatilla26.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva imitación Nike",
+        "caracteristicas":["Disponible en Negro y Blanco"],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["40","41","42","43","44"]
+    },
+    {
+        "id": 50,
+        "img": ["assets/zapatilla27.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva Jaguar originales",
+        "caracteristicas":["Disponible en Negro y Blanco"],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["41","42","43","44","45"]
+    },
+    {
+        "id": 51,
+        "img": ["assets/zapatilla28.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva Jaguar originales",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["41","42","43","44","45"]
+    },
+    {
+        "id": 52,
+        "img": ["assets/zapatilla29.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva dama",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["38","39"]
     }
 ]
