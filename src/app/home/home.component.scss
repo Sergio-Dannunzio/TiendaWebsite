@@ -20,9 +20,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    .card{
-      min-width: 340px;
-    }
   }
 
   .carousel-item-desktop{
@@ -138,6 +135,8 @@ span:last-child{
     .carousel-item-desktop{
       display: flex;
     }
+
+    
     .carousel-item-mobile{
       display: none;
     }

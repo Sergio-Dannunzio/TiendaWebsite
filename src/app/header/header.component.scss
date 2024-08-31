@@ -38,12 +38,15 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        a{
-            justify-content: center;
-            margin-top: 8px;
-            margin-bottom: 8px;
-            border: none;
-            padding: 0;
+        .displayData{
+
+            a{
+                justify-content: center;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                border: none;
+                padding: 0;
+            }
         }
         img{
             width: 80%;
@@ -55,6 +58,9 @@
         align-items: center;
         width: 100%;
         p{
+            font-size: 20px;
+        }
+        a{
             font-size: 20px;
         }
     }

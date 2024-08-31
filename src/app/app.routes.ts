@@ -2,6 +2,7 @@ import { Routes } from '@angular/router';
 import { ArticleDetailsComponent } from './article-details/article-details.component';
 import { HomeComponent } from './home/home.component';
 import { ArticleListComponent } from './article-list/article-list.component';
+import { TerminosCondicionesComponent } from './terminos-condiciones/terminos-condiciones.component';
 
 export const routes: Routes = [
 
@@ -9,7 +10,21 @@ export const routes: Routes = [
         path: "home",
         component: HomeComponent,
     },
-    
+    {
+        path: "terminosYcondiciones",
+        component: TerminosCondicionesComponent
+    },
+    {
+        path: "mujer",
+        component: ArticleListComponent
+    },
+    {
+        path: "mujer",
+        children:[
+            {path:":id",
+            component: ArticleDetailsComponent}
+        ]
+    },
     {
         path: "pantalon",
         component: ArticleListComponent
