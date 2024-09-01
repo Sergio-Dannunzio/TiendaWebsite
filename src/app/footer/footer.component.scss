@@ -1,10 +1,11 @@
 .main-container{
     display: flex;
     justify-content: space-around;
-    background-color: #E7B200;
+    background-color: #ffbd59;
     .contact{
         display: flex;
         flex-direction: column;
+        margin-bottom: 18px;
         a{
             margin-left: 8px;
             margin-bottom: 4px;
@@ -26,9 +27,14 @@
         p{
             margin: 0;
         }
-        a{
-            text-decoration: none;
-            color: #000;
+        div{
+            display: flex;
+            a{
+                text-align: center;
+                text-decoration: none;
+                color: #000;
+                margin-right: 8px;
+            }
         }
     }
 }

@@ -15,11 +15,33 @@ export const routes: Routes = [
         component: TerminosCondicionesComponent
     },
     {
+        path: "trabajo",
+        component: ArticleListComponent
+    },
+    {
+        path: "trabajo",
+        children:[
+            {path:":id",
+            component: ArticleDetailsComponent}
+        ]
+    },
+    {
         path: "mujer",
         component: ArticleListComponent
     },
     {
         path: "mujer",
+        children:[
+            {path:":id",
+            component: ArticleDetailsComponent}
+        ]
+    },
+    {
+        path: "hombre",
+        component: ArticleListComponent
+    },
+    {
+        path: "hombre",
         children:[
             {path:":id",
             component: ArticleDetailsComponent}

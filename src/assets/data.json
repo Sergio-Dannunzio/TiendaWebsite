@@ -7,27 +7,33 @@
         "descripcion": ["Te presentamos nuestro PANTALON CARGO DE TRABAJO de alta calidad, diseñado para acompañarte en tus jornadas laborales más exigentes. Con sus seis bolsillos, tendrás todo lo que necesitas al alcance de tu mano.", "Una de las características clave de este pantalón es su diseño con costuras reforzadas. Sabemos lo importante que es contar con un pantalón que resista el desgaste diario, y gracias a estas costuras, vas a poder enfrentar cualquier desafío laboral con total confianza.","La elección de la tela Gabardina 8 onzas para este pantalón no fue casual. Esta tela es reconocida por su durabilidad y resistencia, lo que significa que no tendrás que preocuparte por rasgaduras o deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada.","Ya sea que trabajes en la construcción, en el campo, en un taller o cualquier otra profesión que demande un alto deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada , este pantalón cargo de trabajo está diseñado pensando en vos. Resistente, funcional y cómodo."],
         "caracteristicas":["Tela gabardina pesada, 8 onzas","Con cierre (entrepierna), 6 bolsillos (2 delanteros, 2 traseros y 2 en los costados).","No achica al lavarlo y no pierde color.","Colores: Beige - Azul - Negro - Verde"],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 1,
         "img": ["assets/pantalon22.jpg","assets/pantalon2.1.jpg","assets/pantalon2.2.jpg","assets/pantalon2.3.jpg"],
         "wsp": "Quiero",
         "desc": "Pantalon cargo jogger",
-        "descripcion": [""],
+        "descripcion": [],
         "caracteristicas": ["Confeccionados en gabardina rigida liviana de alta calidad","2 bolsillos delanteros + 2 bolsillos laterales + 2 bolsillos traseros","Puños con elastico","Cordon de ajuste en cintura","Disponible en 5 colores","Negro","Verde","Verde musgo","Camel","Beige"],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 2,
         "img": ["assets/pantalon33.jpg","assets/pantalon3.1.jpg","assets/pantalon3.2.jpg","assets/pantalon3.3.jpg","assets/pantalon3.4.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "descripcion": [""],
+        "descripcion": [],
         "caracteristicas": ["Nevado","Disponible en 2 colores","Azul","Negro"],
         "tipo": "Pantalon",
-        "talle": ["40","42","44","46","48","50","52","54"]
+        "talle": ["40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 3,
@@ -37,16 +43,21 @@
         "descripcion": ["Una Marca con más de 22 años. fabricando Jeans para vos.... Sabemos lo que buscas, el mejor calce, los mejores materiales y garantía de durabilidad a un precio accesible."],
         "caracteristicas": ["Pantalon Jeans Excelente costura","Muy buen material y un excelente calse","Disponible en 2 colores","Azul","Celeste"],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 4,
         "img": ["assets/pantalon55.jpg","assets/pantalon5.1.jpg"],
         "wsp": "Quiero",
         "desc": "Jean Elastizado Semichupin",
-        "descripcion": [""],
+        "descripcion": [],
+        "caracteristicas": [],
         "tipo": "Pantalon",
-        "talle": ["S","M"]
+        "talle": ["S","M"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 5,
@@ -56,7 +67,9 @@
         "descripcion": [],
         "caracteristicas": ["Material: algodon frisado premium de calidad!","1 bolsillo trasero","2 bolsillos laterales espaciosos","Bolsillos laterales con cierres","Disponible en 4 colores","Negro","Gris melange","Gris oscuro","Azul marino"],
         "tipo": "Pantalon",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 6,
@@ -66,27 +79,33 @@
         "descripcion": [],
         "caracteristicas": ["Tela: Frisa","Modelo: Corte clásico","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
         "tipo": "Pantalon",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 7,
         "img": ["assets/campera1.jpg","assets/campera1.1.jpg"],
         "wsp": "Quiero",
         "desc": "Campera de algodón",
-        "descripcion": [""],
+        "descripcion": [],
         "caracteristicas": ["Material principal: Algodón","Composición: algodón 80% poliester 20%","Con bolsillos: Si"],
         "tipo": "Campera",
-        "talle": ["S","M","L","XL","XXL"]
+        "talle": ["S","M","L","XL","XXL"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 8,
         "img": ["assets/buzo1.jpg","assets/buzo1.1.jpg"],
         "wsp": "Quiero",
         "desc": "Buzo de algodón",
-        "descripcion": [""],
+        "descripcion": [],
         "caracteristicas": ["Material principal: Algodón","Uso ideal para todo el año Super suaves, cómodos Ligeramente al cuerpo."],
         "tipo": "Buzo",
-        "talle": ["S","M","L","XL","XXL"]
+        "talle": ["S","M","L","XL","XXL"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 9,
@@ -96,7 +115,9 @@
         "descripcion": [],
         "caracteristicas":[],
         "tipo": "Buzo",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 10,
@@ -106,7 +127,9 @@
         "descripcion": ["Rompeviento liviano ideal para todo tipo de actividades al aire libre y deportivas. Posee capucha oculta en el cuello, que se puede guardar. Cuenta con dos bolsillos laterales y cordón en la cintura. Hecho en tela siré lisa, con abrigo."],
         "caracteristicas":["Disponible en 4 colores","Negro","Azul","Azul Eléctrico","Bordó"],
         "tipo": "Campera",
-        "talle": ["2","3","4","5","6","7"]
+        "talle": ["2","3","4","5","6","7"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 11,
@@ -116,7 +139,9 @@
         "descripcion": [],
         "caracteristicas":["Material: Grafa","Modelo: Bombacha Grafa","Disponible en 4 colores","Negro","Azul","Verde","Beige"],
         "tipo": "Pantalon",
-        "talle": ["36","38","40","42","44","46","48","50","52","54"]
+        "talle": ["36","38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 12,
@@ -126,7 +151,9 @@
         "descripcion": [],
         "caracteristicas":["Cuello Alto Medio cierre Bolsillo","Cordón para ajustar en la cintura Premium"],
         "tipo": "Buzo",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 13,
@@ -136,7 +163,9 @@
         "descripcion": [],
         "caracteristicas":["Dos bolsillos delanteros","Con capucha"],
         "tipo": "Campera",
-        "talle": ["1","2","3","4","5","6"]
+        "talle": ["1","2","3","4","5","6"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 14,
@@ -146,7 +175,9 @@
         "descripcion": [],
         "caracteristicas":["Liviano y versátil.","Cintura elastizada.","Cuello alto.","Cierre a la vista.","Posee bolsillo canguro."],
         "tipo": "Campera",
-        "talle": ["S","M","L","XL","XXL"]
+        "talle": ["S","M","L","XL","XXL"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 15,
@@ -156,7 +187,9 @@
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
         "tipo": "Remera",
-        "talle": ["0"]
+        "talle": ["0"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 16,
@@ -166,7 +199,9 @@
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
         "tipo": "Remera",
-        "talle": ["0"]
+        "talle": ["0"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 17,
@@ -176,7 +211,9 @@
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
         "tipo": "Remera",
-        "talle": ["0"]
+        "talle": ["0"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 18,
@@ -186,7 +223,9 @@
         "caracteristicas":["Base de Pvc antideslizante y resistente.","Cómodas, Livianas y frescas."],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["38","39","40","41","42","43","44","45","46"]
+        "talle": ["38","39","40","41","42","43","44","45","46"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 19,
@@ -196,7 +235,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 20,
@@ -206,7 +247,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 21,
@@ -216,7 +259,9 @@
         "caracteristicas":[""],
         "descripcion": [""],
         "tipo": "Calzado",
-        "talle": ["34","35","36","37","38","39","40","41","42","43","44","45"]
+        "talle": ["34","35","36","37","38","39","40","41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 22,
@@ -225,8 +270,10 @@
         "desc": "Zapatilla deportiva urbana Raptor",
         "caracteristicas":[],
         "descripcion": [],
-        "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40"]
+        "tipo": "Mujer",
+        "talle": ["40"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
     },
     {
         "id": 23,
@@ -236,7 +283,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 24,
@@ -246,7 +295,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 25,
@@ -256,7 +307,9 @@
         "caracteristicas":[""],
         "descripcion": [""],
         "tipo": "Calzado",
-        "talle": ["38","39","40","41","42","43","44","45"]
+        "talle": ["38","39","40","41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 26,
@@ -266,7 +319,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["38","39","40","41","42","43","44","45","46","47","48"]
+        "talle": ["38","39","40","41","42","43","44","45","46","47","48"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 27,
@@ -276,37 +331,45 @@
         "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 28,
         "img": ["assets/zapatilla11.jpg","assets/zapatilla11.1.jpg"],
         "wsp": "Quiero",
         "desc": "Borcego Bochin",
-        "caracteristicas":[""],
+        "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 29,
         "img": ["assets/zapatilla12.jpg","assets/zapatilla12.1.jpg"],
         "wsp": "Quiero",
         "desc": "Borcego Bochin",
-        "caracteristicas":[""],
+        "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
-        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"]
+        "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 30,
         "img": ["assets/zapatilla13.jpg","assets/zapatilla13.1.jpg","assets/zapatilla13.2.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla lona Nike",
-        "caracteristicas":[""],
-        "descripcion": [""],
+        "desc": "Zapatilla deportiva Bochin",
+        "caracteristicas":[],
+        "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 31,
@@ -314,9 +377,11 @@
         "wsp": "Quiero",
         "desc": "Pantalon Mom Hombre",
         "caracteristicas":["Tela jean rígido","Bragueta con cierre y botón","No destiñe, ni achica al lavarlo Excelente calce y calidad"],
-        "descripcion": [""],
+        "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 32,
@@ -326,7 +391,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 33,
@@ -336,7 +403,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 34,
@@ -346,7 +415,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Trabajo"
     },
     {
         "id": 35,
@@ -356,17 +427,21 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 36,
         "img": ["assets/zapatilla18.jpg","assets/zapatilla18.1.jpg","assets/zapatilla18.2.jpg","assets/zapatilla18.3.jpg"],
         "wsp": "Quiero",
-        "desc": "Botas de Goma",
+        "desc": "Botín papi fútbol 5",
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 37,
@@ -376,7 +451,9 @@
         "caracteristicas":["Disponible en 4 colores","Beige","Negro","Azul","Verde"],
         "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52","54"]
+        "talle": ["38","40","42","44","46","48","50","52","54"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 38,
@@ -386,7 +463,9 @@
         "caracteristicas":["Disponible en 2 colores","Negro","Azul Oscuro"],
         "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52"]
+        "talle": ["38","40","42","44","46","48","50","52"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 39,
@@ -396,7 +475,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["38","40","42","44","46","48","50","52"]
+        "talle": ["38","40","42","44","46","48","50","52"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 40,
@@ -406,7 +487,9 @@
         "caracteristicas":["Cuero con puntera de fierro"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["38","39","40","41","42","43","44","45"]
+        "talle": ["38","39","40","41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 41,
@@ -416,7 +499,9 @@
         "caracteristicas":["Super comoda","Liviana"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["38","39","40","41","42","43","44","45"]
+        "talle": ["38","39","40","41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 42,
@@ -426,7 +511,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 43,
@@ -436,7 +523,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["34","35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["34","35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 44,
@@ -446,7 +535,9 @@
         "caracteristicas":["Disponible en Negro"],
         "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 45,
@@ -456,17 +547,21 @@
         "caracteristicas":["Disponible en 3 colores","Negro","Gris claro","Gris topo"],
         "descripcion": [],
         "tipo": "Pantalon",
-        "talle": ["1","2","3","4","5"]
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 46,
-        "img": ["assets/zapatilla23.jpg"],
+        "img": ["assets/zapatilla23.jpg","assets/zapatilla23.1.jpg"],
         "wsp": "Quiero",
         "desc": "Zapatilla estilo Vans",
         "caracteristicas":["Disponible en 2 colores","Negro, Blanco","Negro, Caramelo"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 47,
@@ -476,17 +571,21 @@
         "caracteristicas":["Disponible en Negro y Fucsia"],
         "descripcion": [],
         "tipo": "Mujer",
-        "talle": ["35","36","37","38","39","40","41"]
+        "talle": ["35","36","37","38","39","40","41"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
     },
     {
         "id": 48,
         "img": ["assets/zapatilla25.jpg"],
         "wsp": "Quiero",
-        "desc": "Zapatilla deportiva unisex",
+        "desc": "Zapatilla deportiva",
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["35","36","37","38","39","40","41","42","43","44"]
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 49,
@@ -496,7 +595,9 @@
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["40","41","42","43","44"]
+        "talle": ["40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 50,
@@ -506,7 +607,9 @@
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["41","42","43","44","45"]
+        "talle": ["41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 51,
@@ -516,7 +619,9 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
-        "talle": ["41","42","43","44","45"]
+        "talle": ["41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
     },
     {
         "id": 52,
@@ -526,6 +631,224 @@
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Mujer",
-        "talle": ["38","39"]
+        "talle": ["38","39"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 53,
+        "img": ["assets/zapatilla30.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva dama",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["35","36","37","38","39","40"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 54,
+        "img": ["assets/zapatilla31.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva dama",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["39","40","41","42","43","44"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 55,
+        "img": ["assets/zapatilla32.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva dama",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["37","38","39","40","41"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 56,
+        "img": ["assets/zapatilla33.1.jpg","assets/zapatilla33.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 57,
+        "img": ["assets/zapatilla34.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla estilo Vans",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 58,
+        "img": ["assets/zapatilla35.jpg","assets/zapatilla35.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 59,
+        "img": ["assets/zapatilla36.jpg","assets/zapatilla36.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla lona tipo urbana",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 60,
+        "img": ["assets/zapatilla37.jpg"],
+        "wsp": "Quiero",
+        "desc": "Botita estilo urbana",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 61,
+        "img": ["assets/zapatilla38.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva mujer",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["35","36","37","38","39","40","41"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 62,
+        "img": ["assets/zapatilla39.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva mujer",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["41"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 63,
+        "img": ["assets/zapatilla40.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla deportiva mujer",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["41"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 64,
+        "img": ["assets/zapatilla41.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla urbana",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["39","40"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 65,
+        "img": ["assets/buzo4.jpg","assets/buzo4.1.jpg","assets/buzo4.2.jpg"],
+        "wsp": "Quiero",
+        "desc": "Suéter lana cuello redondo",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Buzo",
+        "talle": ["1","2","3","4","5"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 66,
+        "img": ["assets/campera4.jpg","assets/campera4.1.jpg","assets/campera4.2.jpg"],
+        "wsp": "Quiero",
+        "desc": "Campera de lana con cierre",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Campera",
+        "talle": ["1","2","3","4","5","6"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 67,
+        "img": ["assets/campera5.jpg","assets/campera5.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Chaleco polar",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Campera",
+        "talle": ["1","2","3","4","5","6","7","8","9"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 68,
+        "img": ["assets/campera6.jpg","assets/campera6.1.jpg","assets/campera6.2.jpg","assets/campera6.3.jpg","assets/campera6.4.jpg"],
+        "wsp": "Quiero",
+        "desc": "Campera polar",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Campera",
+        "talle": ["1","2","3","4","5","6","7","8","9","10"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 69,
+        "img": ["assets/zapatilla42.jpg","assets/zapatilla42.1.jpg","assets/zapatilla42.2.jpg"],
+        "wsp": "Quiero",
+        "desc": "Zapatilla de lona",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["38","39","40","41","42","43","44","45"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 70,
+        "img": ["assets/mameluco1.jpg","assets/mameluco1.1.jpg"],
+        "wsp": "Quiero",
+        "desc": "Mameluco",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Hombre",
+        "talle": ["S","M","L","XL","XXL","XXXL"],
+        "sexo": "Hombre",
+        "estilo":"Trabajo"
     }
 ]

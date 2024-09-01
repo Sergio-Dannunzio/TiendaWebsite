@@ -16,15 +16,12 @@
     transition: transform 0.3s ease-out;
   }
   
-  .carousel-item-mobile {
+  .carousel-item {
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
-  .carousel-item-desktop{
-    display: none;
-  }
 
 span{
   width: 40px;
@@ -128,16 +125,24 @@ span:last-child{
   
 
 
-
+  .heroD{
+    display: none;
+  }
 
   @media only screen and (min-width: 1024px) {
   
-    .carousel-item-desktop{
+    .carousel-item{
       display: flex;
     }
-
-    
-    .carousel-item-mobile{
+    .heroD{
+      display: flex;
+      width: 100%;
+      img{
+        width: 100%;
+      }
+    }
+    .hero{
       display: none;
     }
+    
   }

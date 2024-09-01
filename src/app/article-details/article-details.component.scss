@@ -42,6 +42,10 @@
       margin-top: 8px;
       font-size: 14px;
       color: #505050;
+      a{
+        text-decoration: none;
+        color: #505050;
+      }
     }
     .title-img{
       display: flex;
@@ -227,8 +231,10 @@
         .carousel{
           display: flex;
           flex-direction: column;
+          justify-content: start;
           width: 40%;
           margin-right: 50px;
+          margin-top: 40px;
           span{
             cursor: pointer;
             top: 200px;

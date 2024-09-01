@@ -2,7 +2,8 @@
     @if (load && num!=null) {
 
         <div class="ruta">
-            <span>{{userData[num].tipo}} / {{userData[num].desc}}</span>
+            <a href="/{{userData[num].tipo.toLowerCase()}}"><span>{{userData[num].tipo}} / </span></a>
+            <span>{{userData[num].desc}}</span>
         </div>
         <div class="carousel-mobile">
             <div class="title-img">
@@ -54,28 +55,33 @@
                         </div>
                     </a>
                 </div>
-                <div class="secciones" (click)="displayData(1)">
-                    <p>Caracteristicas</p>
-                    <span class="material-symbols-outlined">
-                        keyboard_arrow_down
-                    </span>
-                </div>
-                <div class="noShow" id="car">
-                    @for (car of userData[num].caracteristicas; track $index) {
-                        <p>>{{car}}</p>
-                    }
-                </div>
-                <div class="secciones" (click)="displayData(2)">
-                    <p>Descripción</p>
-                    <span class="material-symbols-outlined">
-                        keyboard_arrow_down
-                    </span>
-                </div>
-                <div class="noShow" id="desc">
-                    @for (desc of userData[num].descripcion; track $index) {
-                        <p>{{desc}}</p>
-                    }
-                </div>
+                @if (userData[num].caracteristicas.length>0) {
+
+                    <div class="secciones" (click)="displayData(1)">
+                        <p>Caracteristicas</p>
+                        <span class="material-symbols-outlined">
+                            keyboard_arrow_down
+                        </span>
+                    </div>
+                    <div class="noShow" id="car">
+                        @for (car of userData[num].caracteristicas; track $index) {
+                            <p>>{{car}}</p>
+                        }
+                    </div>
+                }
+                @if (userData[num].descripcion.length>0) {
+                    <div class="secciones" (click)="displayData(2)">
+                        <p>Descripción</p>
+                        <span class="material-symbols-outlined">
+                            keyboard_arrow_down
+                        </span>
+                    </div>
+                    <div class="noShow" id="desc">
+                        @for (desc of userData[num].descripcion; track $index) {
+                            <p>{{desc}}</p>
+                        }
+                    </div>
+                }
                 <div class="secciones">
                     <p>Metodos de contacto</p>
                     <div>
@@ -150,28 +156,34 @@
                             </div>
                         </a>
                     </div>
-                    <div class="secciones" (click)="displayData(3)">
-                        <p>Caracteristicas</p>
-                        <span class="material-symbols-outlined">
-                            keyboard_arrow_down
-                        </span>
-                    </div>
-                    <div class="noShow" id="carD">
-                        @for (car of userData[num].caracteristicas; track $index) {
-                            <p>>{{car}}</p>
-                        }
-                    </div>
-                    <div class="secciones" (click)="displayData(4)">
-                        <p>Descripción</p>
-                        <span class="material-symbols-outlined">
-                            keyboard_arrow_down
-                        </span>
-                    </div>
-                    <div class="noShow" id="descD">
-                        @for (desc of userData[num].descripcion; track $index) {
-                            <p>{{desc}}</p>
-                        }
-                    </div>
+                    @if (userData[num].caracteristicas.length>0) {
+
+                        <div class="secciones" (click)="displayData(3)">
+                            <p>Caracteristicas</p>
+                            <span class="material-symbols-outlined">
+                                keyboard_arrow_down
+                            </span>
+                        </div>
+                        <div class="noShow" id="carD">
+                            @for (car of userData[num].caracteristicas; track $index) {
+                                <p>>{{car}}</p>
+                            }
+                        </div>
+                    }
+                    @if (userData[num].descripcion.length>0) {
+
+                        <div class="secciones" (click)="displayData(4)">
+                            <p>Descripción</p>
+                            <span class="material-symbols-outlined">
+                                keyboard_arrow_down
+                            </span>
+                        </div>
+                        <div class="noShow" id="descD">
+                            @for (desc of userData[num].descripcion; track $index) {
+                                <p>{{desc}}</p>
+                            }
+                        </div>
+                    }
                     <div class="secciones">
                         <p>Metodos de contacto</p>
                         <div>

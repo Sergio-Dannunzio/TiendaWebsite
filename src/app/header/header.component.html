@@ -1,13 +1,13 @@
 <div class="main-container" >
     <div>
         <a href="home">
-            <img src="assets/logo.png" alt="">
+            <img src="assets/logoHeader.png" alt="">
         </a>
     </div>
     <div class="link-container">
-        <a href="" (mouseover)="toggleDesktopMenu(1)">Hombre</a>
+        <a href="hombre" (mouseover)="toggleDesktopMenu(1)">Hombre</a>
         <a href="mujer" (mouseover)="out(1)">Mujer</a>
-        <a href="" (mouseover)="out(1)">Ropa de trabajo</a>
+        <a href="trabajo" (mouseover)="out(1)">Ropa de trabajo</a>
     </div>
     <div>
         <form>
@@ -31,7 +31,7 @@
 <div class="mobile-container">
     <div>
         <a href="home">
-            <img src="assets/logo.png" alt="">
+            <img src="assets/logoHeader.png" alt="">
         </a>
     </div>
     <div class="icon-menu" #menuIcon id="mobile-icon">
@@ -44,7 +44,7 @@
     <div class="menu-container">
         <div class="logo">
             <a href="">
-                <img src="assets/logo.png" alt="">
+                <img src="assets/logoHeader.png" alt="">
             </a>
         </div>
         <div class="link" (click)="displayData()">
@@ -67,14 +67,11 @@
             </span>
         </div>
         <div class="link">
-            <p>Ropa de trabajo</p>
+            <a href="trabajo">Ropa de trabajo</a>
             <span class="material-symbols-outlined right">
                 chevron_right
             </span>
         </div>
 
     </div>
-</div>
-<div class="info">
-    <p>Actualmente las compras online estan deshabilitadas</p>
 </div>

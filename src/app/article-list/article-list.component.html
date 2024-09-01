@@ -1,7 +1,11 @@
 <div class="routing">
     <a href="/home">Home /</a>
     @if (load) {
-        <a href="/"> {{filteredData[0].tipo}}</a>
+        @if (url!="hombre") {
+            <a href="/{{url}}"> {{filteredData[0].tipo}}</a>
+        }@else{
+            <a href="/{{url}}"> Hombre</a>
+        }
     }
 </div>
 <div class="main-container">

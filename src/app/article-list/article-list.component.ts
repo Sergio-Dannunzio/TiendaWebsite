@@ -19,6 +19,7 @@ export class ArticleListComponent {
   load: boolean | undefined = false;
   first: number;
   filteredData: any;
+  url: string;
   
   public get articleId(){
     return this.activatedRoute.snapshot.paramMap.get("id")
@@ -28,13 +29,21 @@ export class ArticleListComponent {
     this.id= this.articleId;
     this.num = parseInt(this.id ?? "0");
     this.first = 0;
+    this.url = "";
   }
   
   ngOnInit() {
     this.dataService.getData().subscribe(data => {
       this.userData = data;
       const fullUrl = this.activatedRoute.snapshot.url.join('/');
-      this.filteredData = this.userData.filter((item: { tipo: any; }) => item.tipo.toLowerCase() === fullUrl);
+      this.url = fullUrl;
+      if (fullUrl!="hombre" && fullUrl!="trabajo") {
+        this.filteredData = this.userData.filter((item: { tipo: any; }) => item.tipo.toLowerCase() === fullUrl);
+      }else if(fullUrl==="hombre"){
+        this.filteredData = this.userData.filter((item: { sexo: any; }) => item.sexo.toLowerCase() === fullUrl);
+      }else{
+        this.filteredData = this.userData.filter((item: { estilo: any; }) => item.estilo.toLowerCase() === fullUrl);
+      }
       this.load = true;
 
   

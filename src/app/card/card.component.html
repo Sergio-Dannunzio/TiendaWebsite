@@ -1,4 +1,4 @@
-@if (tipo!="Calzado") {
+
     <a (click)="addIdToUrl()">
         <div class="main-container">
             <div class="card-container">
@@ -11,17 +11,3 @@
             </div>
         </div>
     </a>
-}@else {
-    <a (click)="addIdToUrl()">
-        <div class="main-container">
-            <div class="card-container">
-                <div class="image-container">
-                    <img src="{{imgUrl}}" alt="" class="img-calzado">
-                </div>
-                <div class="description">
-                    <h2>{{desc}}</h2>
-                </div>
-            </div>
-        </div>
-    </a>
-}
