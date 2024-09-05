@@ -2,7 +2,7 @@
     {
         "id": 0,
         "img": ["assets/pantalon11.jpg","assets/pantalon1.1.jpg","assets/pantalon1.2.jpg","assets/pantalon1.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantalon cargo de trabajo",
         "descripcion": ["Te presentamos nuestro PANTALON CARGO DE TRABAJO de alta calidad, diseñado para acompañarte en tus jornadas laborales más exigentes. Con sus seis bolsillos, tendrás todo lo que necesitas al alcance de tu mano.", "Una de las características clave de este pantalón es su diseño con costuras reforzadas. Sabemos lo importante que es contar con un pantalón que resista el desgaste diario, y gracias a estas costuras, vas a poder enfrentar cualquier desafío laboral con total confianza.","La elección de la tela Gabardina 8 onzas para este pantalón no fue casual. Esta tela es reconocida por su durabilidad y resistencia, lo que significa que no tendrás que preocuparte por rasgaduras o deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada.","Ya sea que trabajes en la construcción, en el campo, en un taller o cualquier otra profesión que demande un alto deterioro prematuro. Además, su textura suave y cómoda te permitirá moverte con libertad y sin restricciones durante toda tu jornada , este pantalón cargo de trabajo está diseñado pensando en vos. Resistente, funcional y cómodo."],
         "caracteristicas":["Tela gabardina pesada, 8 onzas","Con cierre (entrepierna), 6 bolsillos (2 delanteros, 2 traseros y 2 en los costados).","No achica al lavarlo y no pierde color.","Colores: Beige - Azul - Negro - Verde"],
@@ -14,7 +14,7 @@
     {
         "id": 1,
         "img": ["assets/pantalon22.jpg","assets/pantalon2.1.jpg","assets/pantalon2.2.jpg","assets/pantalon2.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantalon cargo jogger",
         "descripcion": [],
         "caracteristicas": ["Confeccionados en gabardina rigida liviana de alta calidad","2 bolsillos delanteros + 2 bolsillos laterales + 2 bolsillos traseros","Puños con elastico","Cordon de ajuste en cintura","Disponible en 5 colores","Negro","Verde","Verde musgo","Camel","Beige"],
@@ -26,7 +26,7 @@
     {
         "id": 2,
         "img": ["assets/pantalon33.jpg","assets/pantalon3.1.jpg","assets/pantalon3.2.jpg","assets/pantalon3.3.jpg","assets/pantalon3.4.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [],
         "caracteristicas": ["Nevado","Disponible en 2 colores","Azul","Negro"],
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "img": ["assets/pantalon44.jpg","assets/pantalon4.1.jpg","assets/pantalon4.2.jpg","assets/pantalon4.3.jpg","assets/pantalon4.4.jpg","assets/pantalon4.5.jpg","assets/pantalon4.6.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Jean Semi Chupín Rígido",
         "descripcion": ["Una Marca con más de 22 años. fabricando Jeans para vos.... Sabemos lo que buscas, el mejor calce, los mejores materiales y garantía de durabilidad a un precio accesible."],
         "caracteristicas": ["Pantalon Jeans Excelente costura","Muy buen material y un excelente calse","Disponible en 2 colores","Azul","Celeste"],
@@ -50,7 +50,7 @@
     {
         "id": 4,
         "img": ["assets/pantalon55.jpg","assets/pantalon5.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Jean Elastizado Semichupin",
         "descripcion": [],
         "caracteristicas": [],
@@ -62,7 +62,7 @@
     {
         "id": 5,
         "img": ["assets/pantalon88.jpg","assets/pantalon8.1.jpg","assets/pantalon8.2.jpg","assets/pantalon8.3.jpg","assets/pantalon8.4.jpg","assets/pantalon8.5.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Babucha Algodón Frizado Con Puño",
         "descripcion": [],
         "caracteristicas": ["Material: algodon frisado premium de calidad!","1 bolsillo trasero","2 bolsillos laterales espaciosos","Bolsillos laterales con cierres","Disponible en 4 colores","Negro","Gris melange","Gris oscuro","Azul marino"],
@@ -74,7 +74,7 @@
     {
         "id": 6,
         "img": ["assets/pantalon99.jpg","assets/pantalon9.1.jpg","assets/pantalon9.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Joguin algodón frizado clásico",
         "descripcion": [],
         "caracteristicas": ["Tela: Frisa","Modelo: Corte clásico","Puños y cintura ajustables","Cintura con cordón","Dos bolsillos delanteros"],
@@ -86,7 +86,7 @@
     {
         "id": 7,
         "img": ["assets/campera1.jpg","assets/campera1.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Campera de algodón",
         "descripcion": [],
         "caracteristicas": ["Material principal: Algodón","Composición: algodón 80% poliester 20%","Con bolsillos: Si"],
@@ -98,7 +98,7 @@
     {
         "id": 8,
         "img": ["assets/buzo1.jpg","assets/buzo1.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Buzo de algodón",
         "descripcion": [],
         "caracteristicas": ["Material principal: Algodón","Uso ideal para todo el año Super suaves, cómodos Ligeramente al cuerpo."],
@@ -110,7 +110,7 @@
     {
         "id": 9,
         "img": ["assets/buzo2.jpg","assets/buzo2.1.jpg","assets/buzo2.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Buzo de algodón estilo canguro",
         "descripcion": [],
         "caracteristicas":[],
@@ -122,7 +122,7 @@
     {
         "id": 10,
         "img": ["assets/campera2.jpg","assets/campera2.1.jpg","assets/campera2.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Campera rompeviento",
         "descripcion": ["Rompeviento liviano ideal para todo tipo de actividades al aire libre y deportivas. Posee capucha oculta en el cuello, que se puede guardar. Cuenta con dos bolsillos laterales y cordón en la cintura. Hecho en tela siré lisa, con abrigo."],
         "caracteristicas":["Disponible en 4 colores","Negro","Azul","Azul Eléctrico","Bordó"],
@@ -134,19 +134,19 @@
     {
         "id": 11,
         "img": ["assets/pantalon1010.jpg","assets/pantalon10.1.jpg","assets/pantalon10.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Bombacha Campo el Mensual",
         "descripcion": [],
         "caracteristicas":["Material: Grafa","Modelo: Bombacha Grafa","Disponible en 4 colores","Negro","Azul","Verde","Beige"],
         "tipo": "Pantalon",
         "talle": ["36","38","40","42","44","46","48","50","52","54"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 12,
         "img": ["assets/buzo3.jpg","assets/buzo3.1.jpg","assets/buzo3.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Buzo Polar Térmico Urbana",
         "descripcion": [],
         "caracteristicas":["Cuello Alto Medio cierre Bolsillo","Cordón para ajustar en la cintura Premium"],
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "img": ["assets/campera3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Campera deportiva",
         "descripcion": [],
         "caracteristicas":["Dos bolsillos delanteros","Con capucha"],
@@ -170,7 +170,7 @@
     {
         "id": 14,
         "img": ["assets/chaleco1.jpg","assets/chaleco1.1.jpg","assets/chaleco1.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Chaleco basico de polar",
         "descripcion": [],
         "caracteristicas":["Liviano y versátil.","Cintura elastizada.","Cuello alto.","Cierre a la vista.","Posee bolsillo canguro."],
@@ -182,7 +182,7 @@
     {
         "id": 15,
         "img": ["assets/remera1.jpg","assets/remera1.1.jpg","assets/remera1.2.jpg","assets/remera1.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Remera algodón peinado",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
@@ -194,7 +194,7 @@
     {
         "id": 16,
         "img": ["assets/remera2.jpg","assets/remera2.1.jpg","assets/remera2.2.jpg","assets/remera2.3.jpg","assets/remera2.4.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Remera algodón peinado estampada",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
@@ -206,7 +206,7 @@
     {
         "id": 17,
         "img": ["assets/remera3.jpg","assets/remera3.1.jpg","assets/remera3.2.jpg","assets/remera3.3.jpg","assets/remera3.4.jpg","assets/remera3.5.jpg","assets/remera3.6.jpg","assets/remera3.7.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Remera estampada manga larga",
         "caracteristicas":["Tipo de tela: Algodón","Composición: 100% algodón","Tipo de manga: Corta","Tipo de cuello: Redondo"],
         "descripcion": [],
@@ -218,7 +218,7 @@
     {
         "id": 18,
         "img": ["assets/zapatilla1.jpg","assets/zapatilla1.1.jpg","assets/zapatilla1.2.jpg","assets/zapatilla1.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla de lona panchas clásica Sorpasso",
         "caracteristicas":["Base de Pvc antideslizante y resistente.","Cómodas, Livianas y frescas."],
         "descripcion": [],
@@ -230,7 +230,7 @@
     {
         "id": 19,
         "img": ["assets/zapatilla2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva running Skaylap",
         "caracteristicas":[],
         "descripcion": [],
@@ -242,7 +242,7 @@
     {
         "id": 20,
         "img": ["assets/zapatilla3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva marca Skaylap",
         "caracteristicas":[],
         "descripcion": [],
@@ -254,7 +254,7 @@
     {
         "id": 21,
         "img": ["assets/zapatilla4.jpg","assets/zapatilla4.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva marca Skaylap",
         "caracteristicas":[""],
         "descripcion": [""],
@@ -266,7 +266,7 @@
     {
         "id": 22,
         "img": ["assets/zapatilla5.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva urbana Raptor",
         "caracteristicas":[],
         "descripcion": [],
@@ -278,7 +278,7 @@
     {
         "id": 23,
         "img": ["assets/zapatilla6.jpg","assets/zapatilla6.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla Nike",
         "caracteristicas":[],
         "descripcion": [],
@@ -290,7 +290,7 @@
     {
         "id": 24,
         "img": ["assets/zapatilla7.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla lona Nike",
         "caracteristicas":[],
         "descripcion": [],
@@ -302,7 +302,7 @@
     {
         "id": 25,
         "img": ["assets/zapatilla8.jpg","assets/zapatilla8.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantufla",
         "caracteristicas":[""],
         "descripcion": [""],
@@ -314,7 +314,7 @@
     {
         "id": 26,
         "img": ["assets/zapatilla9.jpg","assets/zapatilla9.1.jpg","assets/zapatilla9.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla Rave",
         "caracteristicas":[],
         "descripcion": [],
@@ -326,43 +326,43 @@
     {
         "id": 27,
         "img": ["assets/zapatilla10.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Borcego Bochin",
         "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
         "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 28,
         "img": ["assets/zapatilla11.jpg","assets/zapatilla11.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Borcego Bochin",
         "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
         "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 29,
         "img": ["assets/zapatilla12.jpg","assets/zapatilla12.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Borcego Bochin",
         "caracteristicas":[],
         "descripcion": ["¡Descubre la combinación perfecta entre seguridad y comodidad con nuestras Zapatillas de Seguridad, ideales para trabajo intensivo y uso diario!","Confeccionadas en material sintético resistente e impermeable, estas zapatillas te ofrecen protección sin renunciar al estilo."],
         "tipo": "Calzado",
         "talle": ["37","38","39","40","41","42","43","44","45","46","47","48"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 30,
         "img": ["assets/zapatilla13.jpg","assets/zapatilla13.1.jpg","assets/zapatilla13.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva Bochin",
         "caracteristicas":[],
         "descripcion": [],
@@ -374,7 +374,7 @@
     {
         "id": 31,
         "img": ["assets/pantalon12.jpg","assets/pantalon12.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantalon Mom Hombre",
         "caracteristicas":["Tela jean rígido","Bragueta con cierre y botón","No destiñe, ni achica al lavarlo Excelente calce y calidad"],
         "descripcion": [],
@@ -386,7 +386,7 @@
     {
         "id": 32,
         "img": ["assets/zapatilla14.jpg","assets/zapatilla14.1.jpg","assets/zapatilla14.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botines Futbol Raptor",
         "caracteristicas":[],
         "descripcion": [],
@@ -398,19 +398,19 @@
     {
         "id": 33,
         "img": ["assets/zapatilla15.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botas de Goma",
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
         "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 34,
         "img": ["assets/zapatilla16.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botas de Goma",
         "caracteristicas":[],
         "descripcion": [],
@@ -422,19 +422,19 @@
     {
         "id": 35,
         "img": ["assets/zapatilla17.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botas de Goma",
         "caracteristicas":[],
         "descripcion": [],
         "tipo": "Calzado",
         "talle": ["27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 36,
         "img": ["assets/zapatilla18.jpg","assets/zapatilla18.1.jpg","assets/zapatilla18.2.jpg","assets/zapatilla18.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botín papi fútbol 5",
         "caracteristicas":[],
         "descripcion": [],
@@ -446,7 +446,7 @@
     {
         "id": 37,
         "img": ["assets/pantalon13.jpg","assets/pantalon13.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantalon corte chino de gabardina",
         "caracteristicas":["Disponible en 4 colores","Beige","Negro","Azul","Verde"],
         "descripcion": [],
@@ -458,7 +458,7 @@
     {
         "id": 38,
         "img": ["assets/pantalon14.jpg","assets/pantalon14.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Jean chupin elastizado",
         "caracteristicas":["Disponible en 2 colores","Negro","Azul Oscuro"],
         "descripcion": [],
@@ -470,7 +470,7 @@
     {
         "id": 39,
         "img": ["assets/pantalon15.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Jean clásico recto",
         "caracteristicas":[],
         "descripcion": [],
@@ -482,19 +482,19 @@
     {
         "id": 40,
         "img": ["assets/zapatilla19.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Calzado de seguridad",
         "caracteristicas":["Cuero con puntera de fierro"],
         "descripcion": [],
         "tipo": "Calzado",
         "talle": ["38","39","40","41","42","43","44","45"],
         "sexo": "Hombre",
-        "estilo":"Urbano"
+        "estilo":"Trabajo"
     },
     {
         "id": 41,
         "img": ["assets/zapatilla20.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva",
         "caracteristicas":["Super comoda","Liviana"],
         "descripcion": [],
@@ -506,7 +506,7 @@
     {
         "id": 42,
         "img": ["assets/zapatilla21.jpg","assets/zapatilla21.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botín papi fútbol 5",
         "caracteristicas":[],
         "descripcion": [],
@@ -518,7 +518,7 @@
     {
         "id": 43,
         "img": ["assets/zapatilla22.jpg","assets/zapatilla22.1.jpg","assets/zapatilla22.2.jpg","assets/zapatilla22.3.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botín papi fútbol 11",
         "caracteristicas":[],
         "descripcion": [],
@@ -530,7 +530,7 @@
     {
         "id": 44,
         "img": ["assets/pantalon16.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Pantalón deportivo hombre",
         "caracteristicas":["Disponible en Negro"],
         "descripcion": [],
@@ -542,7 +542,7 @@
     {
         "id": 45,
         "img": ["assets/pantalon17.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Joguin clásico rústico liviano",
         "caracteristicas":["Disponible en 3 colores","Negro","Gris claro","Gris topo"],
         "descripcion": [],
@@ -554,7 +554,7 @@
     {
         "id": 46,
         "img": ["assets/zapatilla23.jpg","assets/zapatilla23.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla estilo Vans",
         "caracteristicas":["Disponible en 2 colores","Negro, Blanco","Negro, Caramelo"],
         "descripcion": [],
@@ -566,7 +566,7 @@
     {
         "id": 47,
         "img": ["assets/zapatilla24.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva dama",
         "caracteristicas":["Disponible en Negro y Fucsia"],
         "descripcion": [],
@@ -578,7 +578,7 @@
     {
         "id": 48,
         "img": ["assets/zapatilla25.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva",
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
@@ -590,7 +590,7 @@
     {
         "id": 49,
         "img": ["assets/zapatilla26.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva imitación Nike",
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
@@ -602,7 +602,7 @@
     {
         "id": 50,
         "img": ["assets/zapatilla27.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva Jaguar originales",
         "caracteristicas":["Disponible en Negro y Blanco"],
         "descripcion": [],
@@ -614,7 +614,7 @@
     {
         "id": 51,
         "img": ["assets/zapatilla28.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva Jaguar originales",
         "caracteristicas":[],
         "descripcion": [],
@@ -626,7 +626,7 @@
     {
         "id": 52,
         "img": ["assets/zapatilla29.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva dama",
         "caracteristicas":[],
         "descripcion": [],
@@ -638,7 +638,7 @@
     {
         "id": 53,
         "img": ["assets/zapatilla30.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva dama",
         "caracteristicas":[],
         "descripcion": [],
@@ -650,7 +650,7 @@
     {
         "id": 54,
         "img": ["assets/zapatilla31.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva dama",
         "caracteristicas":[],
         "descripcion": [],
@@ -662,7 +662,7 @@
     {
         "id": 55,
         "img": ["assets/zapatilla32.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva dama",
         "caracteristicas":[],
         "descripcion": [],
@@ -674,7 +674,7 @@
     {
         "id": 56,
         "img": ["assets/zapatilla33.1.jpg","assets/zapatilla33.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva",
         "caracteristicas":[],
         "descripcion": [],
@@ -686,7 +686,7 @@
     {
         "id": 57,
         "img": ["assets/zapatilla34.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla estilo Vans",
         "caracteristicas":[],
         "descripcion": [],
@@ -698,7 +698,7 @@
     {
         "id": 58,
         "img": ["assets/zapatilla35.jpg","assets/zapatilla35.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva",
         "caracteristicas":[],
         "descripcion": [],
@@ -710,7 +710,7 @@
     {
         "id": 59,
         "img": ["assets/zapatilla36.jpg","assets/zapatilla36.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla lona tipo urbana",
         "caracteristicas":[],
         "descripcion": [],
@@ -722,7 +722,7 @@
     {
         "id": 60,
         "img": ["assets/zapatilla37.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Botita estilo urbana",
         "caracteristicas":[],
         "descripcion": [],
@@ -734,7 +734,7 @@
     {
         "id": 61,
         "img": ["assets/zapatilla38.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva mujer",
         "caracteristicas":[],
         "descripcion": [],
@@ -746,7 +746,7 @@
     {
         "id": 62,
         "img": ["assets/zapatilla39.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva mujer",
         "caracteristicas":[],
         "descripcion": [],
@@ -758,7 +758,7 @@
     {
         "id": 63,
         "img": ["assets/zapatilla40.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla deportiva mujer",
         "caracteristicas":[],
         "descripcion": [],
@@ -770,7 +770,7 @@
     {
         "id": 64,
         "img": ["assets/zapatilla41.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla urbana",
         "caracteristicas":[],
         "descripcion": [],
@@ -782,7 +782,7 @@
     {
         "id": 65,
         "img": ["assets/buzo4.jpg","assets/buzo4.1.jpg","assets/buzo4.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Suéter lana cuello redondo",
         "caracteristicas":[],
         "descripcion": [],
@@ -794,7 +794,7 @@
     {
         "id": 66,
         "img": ["assets/campera4.jpg","assets/campera4.1.jpg","assets/campera4.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Campera de lana con cierre",
         "caracteristicas":[],
         "descripcion": [],
@@ -806,7 +806,7 @@
     {
         "id": 67,
         "img": ["assets/campera5.jpg","assets/campera5.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Chaleco polar",
         "caracteristicas":[],
         "descripcion": [],
@@ -818,7 +818,7 @@
     {
         "id": 68,
         "img": ["assets/campera6.jpg","assets/campera6.1.jpg","assets/campera6.2.jpg","assets/campera6.3.jpg","assets/campera6.4.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Campera polar",
         "caracteristicas":[],
         "descripcion": [],
@@ -830,7 +830,7 @@
     {
         "id": 69,
         "img": ["assets/zapatilla42.jpg","assets/zapatilla42.1.jpg","assets/zapatilla42.2.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Zapatilla de lona",
         "caracteristicas":[],
         "descripcion": [],
@@ -842,7 +842,7 @@
     {
         "id": 70,
         "img": ["assets/mameluco1.jpg","assets/mameluco1.1.jpg"],
-        "wsp": "Quiero",
+        "wsp": "",
         "desc": "Mameluco",
         "caracteristicas":[],
         "descripcion": [],
@@ -850,5 +850,41 @@
         "talle": ["S","M","L","XL","XXL","XXXL"],
         "sexo": "Hombre",
         "estilo":"Trabajo"
+    },
+    {
+        "id": 71,
+        "img": ["assets/zapatilla43.jpg","assets/zapatilla43.1.jpg","assets/zapatilla43.2.jpg"],
+        "wsp": "",
+        "desc": "Zapatilla deportiva",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 72,
+        "img": ["assets/zapatilla44.jpg"],
+        "wsp": "",
+        "desc": "Zapatilla deportiva",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Calzado",
+        "talle": ["35","36","37","38","39","40","41","42","43","44"],
+        "sexo": "Hombre",
+        "estilo":"Urbano"
+    },
+    {
+        "id": 73,
+        "img": ["assets/zapatilla45.jpg"],
+        "wsp": "",
+        "desc": "Zapatilla estilo gucci",
+        "caracteristicas":[],
+        "descripcion": [],
+        "tipo": "Mujer",
+        "talle": ["35","36","37","38","39","40"],
+        "sexo": "Mujer",
+        "estilo":"Urbano"
     }
 ]
