@@ -1,5 +1,5 @@
 <div class="main-container" >
-    <div>
+    <div class="logo">
         <a href="home">
             <img src="assets/logoHeader.png" alt="">
         </a>
@@ -8,16 +8,6 @@
         <a href="hombre" (mouseover)="toggleDesktopMenu(1)">Hombre</a>
         <a href="mujer" (mouseover)="out(1)">Mujer</a>
         <a href="trabajo" (mouseover)="out(1)">Ropa de trabajo</a>
-    </div>
-    <div>
-        <form>
-            <div class="search">
-                <span class="search-icon material-symbols-outlined">
-                    search
-                </span>
-                <input type="search" class="search-input">
-            </div>
-        </form>
     </div>
 </div>
 <div class="noShow" id="desktop-menu" (mouseleave)="out(1)">
@@ -74,4 +64,7 @@
         </div>
 
     </div>
+</div>
+<div class="info">
+    <p>Podes consultarnos a través de Whatsapp, Facebook e Instagram</p>
 </div>
