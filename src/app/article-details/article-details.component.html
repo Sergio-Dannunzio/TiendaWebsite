@@ -9,10 +9,11 @@
             <div class="title-img">
                 <div class="carousel">
                     @if (userData[num].img.length>1) {
-                        
-                        <span class="material-symbols-outlined" (click)="changePageBack()">
-                            chevron_left
-                        </span>
+                        <button (click)="changePageBack()">
+                            <span class="material-symbols-outlined">
+                                chevron_left
+                            </span>
+                        </button>
                     }
                     @if (userData[num].tipo!="Calzado" && userData[num].tipo!="Mujer") {
                         <img src="{{userData[num].img[first]}}" alt="" />
@@ -20,9 +21,11 @@
                         <img class="img-calzado" src="{{userData[num].img[first]}}" alt="" />
                     }
                     @if (userData[num].img.length>1) {
-                        <span class="material-symbols-outlined right" (click)="changePage()">
-                            chevron_right
-                        </span>
+                        <button class="right" (click)="changePage()">
+                            <span class="material-symbols-outlined">
+                                chevron_right
+                            </span>
+                        </button>
                     }
                 </div>
                 <div class="title">
@@ -107,10 +110,11 @@
         <div class="carousel-desktop">
             <div class="carousel">
                 @if (userData[num].img.length>1) {
-                    
-                    <span class="material-symbols-outlined" (click)="changePageBack()">
-                        chevron_left
-                    </span>
+                    <button (click)="changePageBack()">
+                        <span class="material-symbols-outlined">
+                            chevron_left
+                        </span>
+                    </button>
                 }
                 @if (userData[num].tipo!="Calzado") {
                     <img src="{{userData[num].img[first]}}" alt="" />
@@ -118,9 +122,11 @@
                     <img class="img-calzado" src="{{userData[num].img[first]}}" alt="" />
                 }
                 @if (userData[num].img.length>1) {
-                    <span class="material-symbols-outlined right" (click)="changePage()">
-                        chevron_right
-                    </span>
+                    <button class="right" (click)="changePage()">   
+                        <span class="material-symbols-outlined">
+                            chevron_right
+                        </span>
+                    </button>
                 }
                 <div class="img-mini-carousel">
                     @for (item of userData[num].img; track $index) {
